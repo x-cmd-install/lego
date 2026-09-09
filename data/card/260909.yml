@@ -2,99 +2,99 @@ about:
   description: "Let's Encrypt/ACME client and library written in Go"
   license: MIT
   homepage: https://go-acme.github.io/lego/
-  head: f38820a
+  head: f6b0685
   archived: false
   latestVersion: "v5.4.1"
   latestRelease: "v5.4.1"
   latestPrerelease: ""
-  collectedAt: 2026-09-09T06:02:07Z
+  collectedAt: 2026-09-09T20:23:52Z
 timeline:
   created: 2015-06-08
-  lastCommit: 2026-09-08
+  lastCommit: 2026-09-09
   lastVersion: 2026-08-31
   lastRelease: 2026-08-31
   lastPrerelease: 
 popularity:
-  star: 9864
+  star: 9866
   watcher: 95
   fork: 1165
   release: 111
   contributor: 423
-  pullRequest: 1762
-  issue: 1269
+  pullRequest: 1763
+  issue: 1271
 language:
-  Go: 4707296
+  Go: 4708431
   Go Template: 4270
   Makefile: 2024
   Shell: 1104
   HTML: 889
   Dockerfile: 636
-totalBytes: 4716219
+totalBytes: 4717354
 recent:
   last30d:
     since: 2026-08-10
     release: 2
-    mergedPR: 17
+    mergedPR: 18
     openPR: 3
-    closedIssue: 13
+    closedIssue: 15
     openIssue: 4
-    commit: 20
+    commit: 21
   last60d:
     since: 2026-07-11
     release: 4
-    mergedPR: 27
+    mergedPR: 28
     openPR: 3
-    closedIssue: 28
+    closedIssue: 30
     openIssue: 6
-    commit: 31
+    commit: 32
   last90d:
     since: 2026-06-11
     release: 4
-    mergedPR: 37
+    mergedPR: 38
     openPR: 3
-    closedIssue: 39
+    closedIssue: 41
     openIssue: 11
-    commit: 44
+    commit: 45
   last180d:
     since: 2026-03-13
     release: 18
-    mergedPR: 200
+    mergedPR: 201
     openPR: 5
-    closedIssue: 92
+    closedIssue: 94
     openIssue: 13
-    commit: 253
+    commit: 254
   last360d:
     since: 2025-09-14
     release: 25
-    mergedPR: 356
+    mergedPR: 357
     openPR: 8
-    closedIssue: 170
+    closedIssue: 172
     openIssue: 19
-    commit: 453
+    commit: 454
   last720d:
     since: 2024-09-19
     release: 42
-    mergedPR: 552
+    mergedPR: 553
     openPR: 9
-    closedIssue: 267
+    closedIssue: 269
     openIssue: 27
-    commit: 699
+    commit: 700
 total:
   release: 111
-  mergedPR: 1524
+  mergedPR: 1525
   openPR: 15
-  closedIssue: 1179
+  closedIssue: 1181
   openIssue: 90
-  commit: 2212
+  commit: 2213
 ---
 path: /home/runner/.x-repo/github.com/go-acme/lego
-collectedAt: 2026-09-09T06:02:10Z
+collectedAt: 2026-09-09T20:23:55Z
 loc:
   Go:
-    code: 151937
-    comments: 6777
-    blanks: 34865
-    files: 1292
+    code: 151971
+    comments: 6776
+    blanks: 34873
+    files: 1293
   Json:
     code: 13723
     comments: 0
@@ -166,10 +166,10 @@ loc:
     blanks: 9
     files: 10
 total:
-  code: 175755
-  comments: 21258
-  blanks: 43562
-  files: 2613
+  code: 175789
+  comments: 21257
+  blanks: 43570
+  files: 2614
 ---
 date: "2026-09-07"
 repo:
