@@ -7,7 +7,7 @@ about:
   latestVersion: "v5.4.1"
   latestRelease: "v5.4.1"
   latestPrerelease: ""
-  collectedAt: 2026-09-11T06:00:51Z
+  collectedAt: 2026-09-11T19:13:33Z
 timeline:
   created: 2015-06-08
   lastCommit: 2026-09-10
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-08-31
   lastPrerelease: 
 popularity:
-  star: 9867
+  star: 9868
   watcher: 95
   fork: 1166
   release: 111
@@ -88,7 +88,7 @@ total:
   commit: 2216
 ---
 path: /home/runner/.x-repo/github.com/go-acme/lego
-collectedAt: 2026-09-11T06:00:54Z
+collectedAt: 2026-09-11T19:13:36Z
 loc:
   Go:
     code: 151972
