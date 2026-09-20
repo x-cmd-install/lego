@@ -4,7 +4,7 @@
 
 Let's Encrypt/ACME client and library written in Go
 
-![lego](https://repo.x-cmd.io/lego.svg)
+[![x-cmd/install — lego Code Quality Monitoring Repo Card](https://repo.x-cmd.io/lego.svg)](https://x-cmd.com/install/lego)
 
 ## Install
 
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 9,875 · **Forks**: 1,168 · **Open issues**: 1,274 · **Contributors**: 423
+- **Stars**: 9,879 · **Forks**: 1,169 · **Open issues**: 1,275 · **Contributors**: 423
 
 ## Totals (cumulative)
 
-- **Releases**: 113 · **Merged PRs**: 1534 · **Open PRs**: 14 · **Closed issues**: 1185 · **Open issues**: 89 · **Commits**: 2225
+- **Releases**: 113 · **Merged PRs**: 1534 · **Open PRs**: 14 · **Closed issues**: 1186 · **Open issues**: 89 · **Commits**: 2225
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 4 | 27 | 2 | 18 | 2 | 33 |
-| last60d | 2026-07-20 | 6 | 32 | 2 | 25 | 5 | 35 |
-| 90d | 2026-06-20 | 6 | 45 | 2 | 43 | 9 | 55 |
-| last180d | 2026-03-22 | 19 | 209 | 4 | 96 | 12 | 262 |
-| 360d | 2025-09-23 | 27 | 360 | 7 | 173 | 18 | 461 |
-| last720d | 2024-09-28 | 44 | 559 | 8 | 273 | 26 | 706 |
+| 30d | 2026-08-21 | 4 | 22 | 2 | 18 | 2 | 33 |
+| last60d | 2026-07-22 | 4 | 30 | 2 | 26 | 5 | 35 |
+| 90d | 2026-06-22 | 6 | 45 | 2 | 44 | 9 | 55 |
+| last180d | 2026-03-24 | 19 | 208 | 4 | 96 | 12 | 262 |
+| 360d | 2025-09-25 | 27 | 360 | 7 | 174 | 18 | 461 |
+| last720d | 2024-09-30 | 44 | 557 | 8 | 273 | 26 | 705 |
 
 ## Release assets
 
@@ -138,4 +138,4 @@ Install metadata for lego lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T06:14:38Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T06:14:13Z._

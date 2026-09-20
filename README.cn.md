@@ -4,7 +4,7 @@
 
 Let's Encrypt/ACME client and library written in Go
 
-![lego](https://repo.x-cmd.io/lego.svg?lang=zh)
+[![x-cmd/install — lego Code Quality Monitoring Repo Card](https://repo.x-cmd.io/lego.svg?lang=zh)](https://x-cmd.com/install/lego)
 
 ## 安装
 
@@ -48,22 +48,22 @@ x install lego
 
 ## 流行度
 
-- **Star**: 9,875 · **Fork**: 1,168 · **开放 issue**: 1,274 · **贡献者**: 423
+- **Star**: 9,879 · **Fork**: 1,169 · **开放 issue**: 1,275 · **贡献者**: 423
 
 ## 累计统计
 
-- **发布数**: 113 · **已合并 PR**: 1534 · **开放 PR**: 14 · **已关闭 issue**: 1185 · **开放 issue**: 89 · **提交数**: 2225
+- **发布数**: 113 · **已合并 PR**: 1534 · **开放 PR**: 14 · **已关闭 issue**: 1186 · **开放 issue**: 89 · **提交数**: 2225
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 4 | 27 | 2 | 18 | 2 | 33 |
-| last60d | 2026-07-20 | 6 | 32 | 2 | 25 | 5 | 35 |
-| 90d | 2026-06-20 | 6 | 45 | 2 | 43 | 9 | 55 |
-| last180d | 2026-03-22 | 19 | 209 | 4 | 96 | 12 | 262 |
-| 360d | 2025-09-23 | 27 | 360 | 7 | 173 | 18 | 461 |
-| last720d | 2024-09-28 | 44 | 559 | 8 | 273 | 26 | 706 |
+| 30d | 2026-08-21 | 4 | 22 | 2 | 18 | 2 | 33 |
+| last60d | 2026-07-22 | 4 | 30 | 2 | 26 | 5 | 35 |
+| 90d | 2026-06-22 | 6 | 45 | 2 | 44 | 9 | 55 |
+| last180d | 2026-03-24 | 19 | 208 | 4 | 96 | 12 | 262 |
+| 360d | 2025-09-25 | 27 | 360 | 7 | 174 | 18 | 461 |
+| last720d | 2024-09-30 | 44 | 557 | 8 | 273 | 26 | 705 |
 
 ## Release 资产
 
@@ -138,4 +138,4 @@ lego 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260918.yml` · 2026-09-18T06:14:39Z._
+_数据快照: `data/card/260920.yml` · 2026-09-20T06:14:14Z._
