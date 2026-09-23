@@ -4,7 +4,7 @@
 
 Let's Encrypt/ACME client and library written in Go
 
-[![x-cmd/install — lego Code Quality Monitoring Repo Card](https://repo.x-cmd.io/lego.svg)](https://x-cmd.com/install/lego)
+[![x-cmd/install — lego Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/lego.svg)](https://x-cmd.com/install/lego)
 
 ## Install
 
@@ -26,11 +26,11 @@ Total: **175,889** lines of code across **2325** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **6.3 / 10**
+Overall score: **6.2 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (1/10) — Found 3/27 approved changesets -- score normalized to 1
+- **Code-Review** (0/10) — Found 2/27 approved changesets -- score normalized to 0
 - **CII-Best-Practices** (2/10) — badge detected: InProgress
 - **Fuzzing** (0/10) — project is not fuzzed
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v5.5.1` (2026-09-17)
-- **Last commit**: 2026-09-17
+- **Last commit**: 2026-09-22
 - **Assets in release**: 59
 
 ## Popularity
 
-- **Stars**: 9,883 · **Forks**: 1,169 · **Open issues**: 1,276 · **Contributors**: 423
+- **Stars**: 9,886 · **Forks**: 1,169 · **Open issues**: 1,276 · **Contributors**: 423
 
 ## Totals (cumulative)
 
-- **Releases**: 113 · **Merged PRs**: 1534 · **Open PRs**: 14 · **Closed issues**: 1186 · **Open issues**: 90 · **Commits**: 2225
+- **Releases**: 113 · **Merged PRs**: 1535 · **Open PRs**: 14 · **Closed issues**: 1186 · **Open issues**: 90 · **Commits**: 2227
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 3 | 22 | 2 | 18 | 3 | 27 |
-| last60d | 2026-07-24 | 4 | 30 | 2 | 25 | 6 | 35 |
-| 90d | 2026-06-24 | 6 | 45 | 2 | 44 | 10 | 54 |
-| last180d | 2026-03-26 | 19 | 190 | 4 | 96 | 13 | 231 |
-| 360d | 2025-09-27 | 27 | 360 | 7 | 174 | 19 | 458 |
-| last720d | 2024-10-02 | 44 | 556 | 8 | 273 | 27 | 705 |
+| 30d | 2026-08-24 | 3 | 23 | 2 | 18 | 3 | 29 |
+| last60d | 2026-07-25 | 4 | 31 | 2 | 24 | 6 | 37 |
+| 90d | 2026-06-25 | 6 | 46 | 2 | 44 | 10 | 56 |
+| last180d | 2026-03-27 | 19 | 187 | 4 | 95 | 13 | 233 |
+| 360d | 2025-09-28 | 27 | 360 | 7 | 174 | 19 | 460 |
+| last720d | 2024-10-03 | 44 | 556 | 8 | 273 | 27 | 706 |
 
 ## Release assets
 
@@ -138,4 +138,4 @@ Install metadata for lego lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T06:21:25Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T06:26:20Z._
