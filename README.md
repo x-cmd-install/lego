@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-26 | 4 | 23 | 2 | 14 | 2 | 31 |
-| last60d | 2026-07-27 | 5 | 32 | 2 | 24 | 6 | 39 |
-| 90d | 2026-06-27 | 7 | 46 | 2 | 43 | 10 | 58 |
-| last180d | 2026-03-29 | 20 | 182 | 4 | 95 | 13 | 235 |
-| 360d | 2025-09-30 | 28 | 360 | 7 | 173 | 19 | 462 |
-| last720d | 2024-10-05 | 44 | 553 | 8 | 273 | 27 | 703 |
+| 30d | 2026-08-27 | 4 | 22 | 2 | 13 | 2 | 31 |
+| last60d | 2026-07-28 | 5 | 32 | 2 | 22 | 6 | 39 |
+| 90d | 2026-06-28 | 7 | 45 | 2 | 42 | 10 | 58 |
+| last180d | 2026-03-30 | 20 | 181 | 4 | 94 | 13 | 235 |
+| 360d | 2025-10-01 | 28 | 360 | 7 | 173 | 19 | 462 |
+| last720d | 2024-10-06 | 44 | 550 | 8 | 273 | 27 | 702 |
 
 ## Release assets
 
@@ -138,4 +138,4 @@ Install metadata for lego lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260925.yml` · 2026-09-25T06:02:35Z._
+_Snapshot: `data/card/260926.yml` · 2026-09-26T05:55:15Z._
