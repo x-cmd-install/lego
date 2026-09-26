@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 6114,
       "digest": "sha256:5abf833aa9cad9f7049c73c521ffdffb06c5e10360bee933aee47866b798eb82",
-      "download_count": 324,
+      "download_count": 532,
       "created_at": "2026-09-23T11:41:28Z",
       "updated_at": "2026-09-23T11:41:29Z",
       "browser_download_url": "https://github.com/go-acme/lego/releases/download/v5.5.2/lego_5.5.2_checksums.txt"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 21849041,
       "digest": "sha256:de950dd6eebb9406f3546e3725b3382103f197de67142615258b66ca067759b2",
-      "download_count": 12,
+      "download_count": 18,
       "created_at": "2026-09-23T11:41:01Z",
       "updated_at": "2026-09-23T11:41:02Z",
       "browser_download_url": "https://github.com/go-acme/lego/releases/download/v5.5.2/lego_v5.5.2_darwin_amd64.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 20305979,
       "digest": "sha256:9c407ad3193dbdbfe33a202ab5d49cf8bd3fff72e69362857ac91205295dc5b4",
-      "download_count": 35,
+      "download_count": 51,
       "created_at": "2026-09-23T11:41:13Z",
       "updated_at": "2026-09-23T11:41:14Z",
       "browser_download_url": "https://github.com/go-acme/lego/releases/download/v5.5.2/lego_v5.5.2_darwin_arm64.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 338759,
       "digest": "sha256:7fccfd80ee09d9d1228debcb68e21a2b2983ed8ff7ead0c19a881342b0b1e75f",
-      "download_count": 4,
+      "download_count": 6,
       "created_at": "2026-09-23T11:41:26Z",
       "updated_at": "2026-09-23T11:41:26Z",
       "browser_download_url": "https://github.com/go-acme/lego/releases/download/v5.5.2/lego_v5.5.2_darwin_arm64.tar.gz.sbom.json"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 21167745,
       "digest": "sha256:2ba10585def66666e16b614a76a4786c4e5745c0a7d67d795eb63ae87a9a2962",
-      "download_count": 6,
+      "download_count": 7,
       "created_at": "2026-09-23T11:41:02Z",
       "updated_at": "2026-09-23T11:41:03Z",
       "browser_download_url": "https://github.com/go-acme/lego/releases/download/v5.5.2/lego_v5.5.2_freebsd_amd64.tar.gz"
@@ -679,7 +679,7 @@
       "state": "uploaded",
       "size": 19630516,
       "digest": "sha256:425b111caf39273424f811e05fdf83ceb21b929aebf578ca5c4524f0816ceec9",
-      "download_count": 17,
+      "download_count": 21,
       "created_at": "2026-09-23T11:40:58Z",
       "updated_at": "2026-09-23T11:40:59Z",
       "browser_download_url": "https://github.com/go-acme/lego/releases/download/v5.5.2/lego_v5.5.2_linux_386.tar.gz"
@@ -751,7 +751,7 @@
       "state": "uploaded",
       "size": 21201656,
       "digest": "sha256:2a35505089e7772c92e1e9ac144df91151ef2eca8568630db0ff91fca06d9bef",
-      "download_count": 677,
+      "download_count": 1054,
       "created_at": "2026-09-23T11:41:06Z",
       "updated_at": "2026-09-23T11:41:08Z",
       "browser_download_url": "https://github.com/go-acme/lego/releases/download/v5.5.2/lego_v5.5.2_linux_amd64.tar.gz"
@@ -787,7 +787,7 @@
       "state": "uploaded",
       "size": 338551,
       "digest": "sha256:42426a6e99127f66bb9198b528a33e05505cf18aee59f3ba59f1192a56723e36",
-      "download_count": 13,
+      "download_count": 16,
       "created_at": "2026-09-23T11:41:23Z",
       "updated_at": "2026-09-23T11:41:24Z",
       "browser_download_url": "https://github.com/go-acme/lego/releases/download/v5.5.2/lego_v5.5.2_linux_amd64.tar.gz.sbom.json"
@@ -823,7 +823,7 @@
       "state": "uploaded",
       "size": 19159057,
       "digest": "sha256:15b14ec2ab14fde69cc8396eb0204c5ce4327e31a486953225a6059b26db3e8c",
-      "download_count": 77,
+      "download_count": 119,
       "created_at": "2026-09-23T11:40:59Z",
       "updated_at": "2026-09-23T11:41:00Z",
       "browser_download_url": "https://github.com/go-acme/lego/releases/download/v5.5.2/lego_v5.5.2_linux_arm64.tar.gz"
@@ -895,7 +895,7 @@
       "state": "uploaded",
       "size": 19780139,
       "digest": "sha256:d8020837acd8a1c59244287519800ed6cd71983ede34515e8496d2290ec378f2",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-09-23T11:40:56Z",
       "updated_at": "2026-09-23T11:40:57Z",
       "browser_download_url": "https://github.com/go-acme/lego/releases/download/v5.5.2/lego_v5.5.2_linux_armv5.tar.gz"
@@ -967,7 +967,7 @@
       "state": "uploaded",
       "size": 19775199,
       "digest": "sha256:2829eed8dca0a7589c8354bce7406aea1ecd1a79b18dfa969c0b4ce034a4611b",
-      "download_count": 9,
+      "download_count": 11,
       "created_at": "2026-09-23T11:40:58Z",
       "updated_at": "2026-09-23T11:40:59Z",
       "browser_download_url": "https://github.com/go-acme/lego/releases/download/v5.5.2/lego_v5.5.2_linux_armv6.tar.gz"
@@ -1039,7 +1039,7 @@
       "state": "uploaded",
       "size": 19757071,
       "digest": "sha256:59214f98978c10d5308ac5bf2c805a9c9484f545f498d9c90622ad0b16ba4525",
-      "download_count": 15,
+      "download_count": 18,
       "created_at": "2026-09-23T11:41:16Z",
       "updated_at": "2026-09-23T11:41:18Z",
       "browser_download_url": "https://github.com/go-acme/lego/releases/download/v5.5.2/lego_v5.5.2_linux_armv7.tar.gz"
@@ -1975,7 +1975,7 @@
       "state": "uploaded",
       "size": 20450282,
       "digest": "sha256:22cfb8c782cd38974acc64e71c5a1ff466bcc719c07d42d01cf9623a72f6f24d",
-      "download_count": 19,
+      "download_count": 24,
       "created_at": "2026-09-23T11:41:16Z",
       "updated_at": "2026-09-23T11:41:17Z",
       "browser_download_url": "https://github.com/go-acme/lego/releases/download/v5.5.2/lego_v5.5.2_windows_386.zip"
@@ -2047,7 +2047,7 @@
       "state": "uploaded",
       "size": 21469538,
       "digest": "sha256:fc544130a2716329cad73a47b674e3aeea019c4753c3963d259bd45d946bbd34",
-      "download_count": 136,
+      "download_count": 228,
       "created_at": "2026-09-23T11:41:03Z",
       "updated_at": "2026-09-23T11:41:04Z",
       "browser_download_url": "https://github.com/go-acme/lego/releases/download/v5.5.2/lego_v5.5.2_windows_amd64.zip"
@@ -2119,7 +2119,7 @@
       "state": "uploaded",
       "size": 19095937,
       "digest": "sha256:0eec94ec6834db18d537646a2c2a72fa9dc1e503f65e59ab574caae358a31982",
-      "download_count": 22,
+      "download_count": 23,
       "created_at": "2026-09-23T11:41:15Z",
       "updated_at": "2026-09-23T11:41:16Z",
       "browser_download_url": "https://github.com/go-acme/lego/releases/download/v5.5.2/lego_v5.5.2_windows_arm64.zip"
