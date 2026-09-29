@@ -30,7 +30,7 @@ Overall score: **6.2 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (0/10) — Found 2/27 approved changesets -- score normalized to 0
+- **Code-Review** (0/10) — Found 1/26 approved changesets -- score normalized to 0
 - **CII-Best-Practices** (2/10) — badge detected: InProgress
 - **Fuzzing** (0/10) — project is not fuzzed
 
@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 9,890 · **Forks**: 1,170 · **Open issues**: 1,277 · **Contributors**: 423
+- **Stars**: 9,891 · **Forks**: 1,170 · **Open issues**: 1,277 · **Contributors**: 423
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-29 | 4 | 22 | 2 | 14 | 2 | 24 |
-| last60d | 2026-07-30 | 5 | 32 | 2 | 22 | 6 | 41 |
-| 90d | 2026-06-30 | 7 | 44 | 2 | 42 | 10 | 54 |
-| last180d | 2026-04-01 | 20 | 179 | 4 | 93 | 13 | 230 |
-| 360d | 2025-10-03 | 28 | 361 | 7 | 174 | 19 | 464 |
-| last720d | 2024-10-08 | 42 | 550 | 8 | 274 | 27 | 698 |
+| 30d | 2026-08-30 | 4 | 22 | 2 | 14 | 2 | 24 |
+| last60d | 2026-07-31 | 5 | 31 | 2 | 22 | 6 | 41 |
+| 90d | 2026-07-01 | 7 | 42 | 2 | 40 | 8 | 54 |
+| last180d | 2026-04-02 | 20 | 179 | 4 | 93 | 13 | 230 |
+| 360d | 2025-10-04 | 28 | 361 | 7 | 174 | 19 | 464 |
+| last720d | 2024-10-09 | 42 | 550 | 8 | 274 | 27 | 698 |
 
 ## Release assets
 
@@ -138,4 +138,4 @@ Install metadata for lego lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260928.yml` · 2026-09-28T06:30:57Z._
+_Snapshot: `data/card/260929.yml` · 2026-09-29T06:49:18Z._
