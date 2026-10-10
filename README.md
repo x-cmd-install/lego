@@ -14,11 +14,11 @@ x install lego
 
 ## Code insight
 
-Total: **175,971** lines of code across **2325** files in the top 5 languages.
+Total: **176,013** lines of code across **2325** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 152,902 | 6,794 | 35,087 | 1300 |
+| Go | 152,944 | 6,796 | 35,105 | 1300 |
 | Json | 14,541 | 0 | 7 | 727 |
 | Toml | 6,618 | 3 | 733 | 225 |
 | Xml | 1,216 | 0 | 7 | 63 |
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v5.5.2` (2026-09-23)
-- **Last commit**: 2026-10-07
+- **Last commit**: 2026-10-09
 - **Assets in release**: 59
 
 ## Popularity
 
-- **Stars**: 9,918 · **Forks**: 1,175 · **Open issues**: 1,285 · **Contributors**: 423
+- **Stars**: 9,919 · **Forks**: 1,176 · **Open issues**: 1,286 · **Contributors**: 423
 
 ## Totals (cumulative)
 
-- **Releases**: 114 · **Merged PRs**: 1540 · **Open PRs**: 15 · **Closed issues**: 1192 · **Open issues**: 93 · **Commits**: 2236
+- **Releases**: 114 · **Merged PRs**: 1542 · **Open PRs**: 16 · **Closed issues**: 1194 · **Open issues**: 92 · **Commits**: 2238
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-09 | 3 | 14 | 1 | 10 | 4 | 20 |
-| last60d | 2026-08-10 | 5 | 33 | 3 | 26 | 7 | 44 |
-| 90d | 2026-07-11 | 7 | 43 | 3 | 41 | 9 | 56 |
-| last180d | 2026-04-12 | 20 | 173 | 5 | 95 | 15 | 221 |
-| 360d | 2025-10-14 | 28 | 360 | 8 | 175 | 22 | 463 |
-| last720d | 2024-10-19 | 42 | 548 | 9 | 279 | 30 | 695 |
+| 30d | 2026-09-10 | 3 | 14 | 2 | 11 | 3 | 22 |
+| last60d | 2026-08-11 | 5 | 35 | 4 | 28 | 6 | 46 |
+| 90d | 2026-07-12 | 7 | 45 | 4 | 43 | 8 | 58 |
+| last180d | 2026-04-13 | 20 | 172 | 6 | 97 | 14 | 223 |
+| 360d | 2025-10-15 | 28 | 361 | 9 | 177 | 21 | 465 |
+| last720d | 2024-10-20 | 42 | 550 | 10 | 281 | 29 | 697 |
 
 ## Release assets
 
@@ -138,4 +138,4 @@ Install metadata for lego lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261009.yml` · 2026-10-09T07:12:18Z._
+_Snapshot: `data/card/261010.yml` · 2026-10-10T06:51:30Z._
