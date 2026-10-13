@@ -30,7 +30,7 @@ x install lego
 
 评分最低的几项:
 
-- **Code-Review** (0/10) — Found 1/26 approved changesets -- score normalized to 0
+- **Code-Review** (0/10) — Found 0/26 approved changesets -- score normalized to 0
 - **CII-Best-Practices** (2/10) — badge detected: InProgress
 - **Fuzzing** (0/10) — project is not fuzzed
 
@@ -48,7 +48,7 @@ x install lego
 
 ## 流行度
 
-- **Star**: 9,925 · **Fork**: 1,177 · **开放 issue**: 1,288 · **贡献者**: 423
+- **Star**: 9,931 · **Fork**: 1,179 · **开放 issue**: 1,288 · **贡献者**: 423
 
 ## 累计统计
 
@@ -58,12 +58,12 @@ x install lego
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-12 | 3 | 16 | 2 | 14 | 2 | 15 |
-| last60d | 2026-08-13 | 5 | 37 | 4 | 31 | 5 | 48 |
-| 90d | 2026-07-14 | 7 | 46 | 4 | 46 | 7 | 55 |
-| last180d | 2026-04-15 | 20 | 169 | 6 | 100 | 13 | 213 |
-| 360d | 2025-10-17 | 28 | 360 | 9 | 180 | 20 | 458 |
-| last720d | 2024-10-22 | 42 | 550 | 10 | 282 | 28 | 697 |
+| 30d | 2026-09-13 | 3 | 16 | 2 | 14 | 2 | 15 |
+| last60d | 2026-08-14 | 5 | 37 | 4 | 31 | 4 | 48 |
+| 90d | 2026-07-15 | 7 | 44 | 4 | 44 | 7 | 55 |
+| last180d | 2026-04-16 | 19 | 168 | 6 | 100 | 13 | 213 |
+| 360d | 2025-10-18 | 27 | 359 | 9 | 180 | 20 | 458 |
+| last720d | 2024-10-23 | 42 | 550 | 10 | 282 | 28 | 697 |
 
 ## Release 资产
 
@@ -138,4 +138,4 @@ lego 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261012.yml` · 2026-10-12T07:14:00Z._
+_数据快照: `data/card/261013.yml` · 2026-10-13T08:03:22Z._
