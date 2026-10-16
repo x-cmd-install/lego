@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 9,940 · **Forks**: 1,180 · **Open issues**: 1,290 · **Contributors**: 423
+- **Stars**: 9,943 · **Forks**: 1,181 · **Open issues**: 1,290 · **Contributors**: 423
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-15 | 3 | 17 | 3 | 14 | 3 | 17 |
-| last60d | 2026-08-16 | 5 | 39 | 5 | 32 | 5 | 50 |
-| 90d | 2026-07-17 | 7 | 46 | 5 | 42 | 8 | 57 |
-| last180d | 2026-04-18 | 19 | 169 | 7 | 101 | 14 | 215 |
-| 360d | 2025-10-20 | 27 | 361 | 10 | 180 | 21 | 460 |
-| last720d | 2024-10-25 | 42 | 551 | 11 | 283 | 29 | 699 |
+| 30d | 2026-09-16 | 3 | 16 | 3 | 13 | 3 | 17 |
+| last60d | 2026-08-17 | 5 | 39 | 5 | 32 | 5 | 50 |
+| 90d | 2026-07-18 | 7 | 44 | 5 | 39 | 8 | 57 |
+| last180d | 2026-04-19 | 19 | 169 | 7 | 101 | 14 | 215 |
+| 360d | 2025-10-21 | 27 | 361 | 10 | 178 | 20 | 460 |
+| last720d | 2024-10-26 | 42 | 550 | 11 | 282 | 29 | 698 |
 
 ## Release assets
 
@@ -138,4 +138,4 @@ Install metadata for lego lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261015.yml` · 2026-10-15T05:43:57Z._
+_Snapshot: `data/card/261016.yml` · 2026-10-16T05:35:00Z._
