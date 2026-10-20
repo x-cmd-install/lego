@@ -30,7 +30,7 @@ Overall score: **6.2 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (0/10) — Found 0/26 approved changesets -- score normalized to 0
+- **Code-Review** (0/10) — Found 1/26 approved changesets -- score normalized to 0
 - **CII-Best-Practices** (2/10) — badge detected: InProgress
 - **Fuzzing** (0/10) — project is not fuzzed
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v5.5.2` (2026-09-23)
-- **Last commit**: 2026-10-17
+- **Last commit**: 2026-10-19
 - **Assets in release**: 59
 
 ## Popularity
 
-- **Stars**: 9,952 · **Forks**: 1,181 · **Open issues**: 1,291 · **Contributors**: 423
+- **Stars**: 9,953 · **Forks**: 1,181 · **Open issues**: 1,293 · **Contributors**: 423
 
 ## Totals (cumulative)
 
-- **Releases**: 114 · **Merged PRs**: 1548 · **Open PRs**: 15 · **Closed issues**: 1200 · **Open issues**: 91 · **Commits**: 2244
+- **Releases**: 114 · **Merged PRs**: 1548 · **Open PRs**: 16 · **Closed issues**: 1201 · **Open issues**: 92 · **Commits**: 2245
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-19 | 1 | 14 | 1 | 14 | 2 | 15 |
-| last60d | 2026-08-20 | 5 | 41 | 3 | 32 | 4 | 46 |
-| 90d | 2026-07-21 | 7 | 44 | 3 | 40 | 7 | 54 |
-| last180d | 2026-04-22 | 17 | 158 | 5 | 99 | 13 | 176 |
-| 360d | 2025-10-24 | 27 | 361 | 7 | 179 | 18 | 455 |
-| last720d | 2024-10-29 | 42 | 550 | 9 | 284 | 28 | 696 |
+| 30d | 2026-09-20 | 1 | 14 | 2 | 15 | 3 | 16 |
+| last60d | 2026-08-21 | 5 | 36 | 4 | 33 | 5 | 47 |
+| 90d | 2026-07-22 | 5 | 44 | 4 | 41 | 8 | 55 |
+| last180d | 2026-04-23 | 17 | 144 | 6 | 100 | 14 | 177 |
+| 360d | 2025-10-25 | 27 | 360 | 8 | 180 | 19 | 456 |
+| last720d | 2024-10-30 | 42 | 549 | 10 | 285 | 29 | 697 |
 
 ## Release assets
 
@@ -138,4 +138,4 @@ Install metadata for lego lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261019.yml` · 2026-10-19T05:46:05Z._
+_Snapshot: `data/card/261020.yml` · 2026-10-20T05:56:56Z._
