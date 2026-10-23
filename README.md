@@ -14,11 +14,11 @@ x install lego
 
 ## Code insight
 
-Total: **180,728** lines of code across **2585** files in the top 5 languages.
+Total: **180,737** lines of code across **2585** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 157,459 | 7,547 | 36,522 | 1548 |
+| Go | 157,467 | 7,551 | 36,525 | 1548 |
 | Json | 14,631 | 0 | 7 | 736 |
 | Toml | 6,725 | 3 | 744 | 228 |
 | Xml | 1,216 | 0 | 7 | 63 |
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v5.5.2` (2026-09-23)
-- **Last commit**: 2026-10-20
+- **Last commit**: 2026-10-22
 - **Assets in release**: 59
 
 ## Popularity
 
-- **Stars**: 9,956 · **Forks**: 1,181 · **Open issues**: 1,293 · **Contributors**: 423
+- **Stars**: 9,961 · **Forks**: 1,182 · **Open issues**: 1,294 · **Contributors**: 423
 
 ## Totals (cumulative)
 
-- **Releases**: 114 · **Merged PRs**: 1549 · **Open PRs**: 15 · **Closed issues**: 1202 · **Open issues**: 91 · **Commits**: 2246
+- **Releases**: 114 · **Merged PRs**: 1551 · **Open PRs**: 15 · **Closed issues**: 1203 · **Open issues**: 91 · **Commits**: 2248
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 1 | 14 | 1 | 16 | 1 | 17 |
-| last60d | 2026-08-23 | 4 | 37 | 3 | 34 | 4 | 48 |
-| 90d | 2026-07-24 | 5 | 45 | 3 | 41 | 7 | 56 |
-| last180d | 2026-04-25 | 16 | 139 | 5 | 100 | 13 | 178 |
-| 360d | 2025-10-27 | 27 | 360 | 7 | 181 | 18 | 457 |
-| last720d | 2024-11-01 | 42 | 549 | 9 | 286 | 28 | 698 |
+| 30d | 2026-09-23 | 1 | 15 | 1 | 17 | 1 | 19 |
+| last60d | 2026-08-24 | 4 | 39 | 3 | 35 | 4 | 50 |
+| 90d | 2026-07-25 | 5 | 47 | 3 | 41 | 7 | 58 |
+| last180d | 2026-04-26 | 16 | 141 | 5 | 101 | 13 | 180 |
+| 360d | 2025-10-28 | 27 | 360 | 7 | 182 | 18 | 459 |
+| last720d | 2024-11-02 | 42 | 551 | 9 | 287 | 28 | 699 |
 
 ## Release assets
 
@@ -129,6 +129,20 @@ Lowest-scoring checks:
 | [lego_v5.5.2_windows_arm64.zip](https://github.com/go-acme/lego/releases/download/v5.5.2/lego_v5.5.2_windows_arm64.zip) | 18.2 MiB | `native/win/arm64` |
 | [lego_v5.5.2_windows_arm64.zip.sbom.json](https://github.com/go-acme/lego/releases/download/v5.5.2/lego_v5.5.2_windows_arm64.zip.sbom.json) | 324.2 KiB | `native/win/arm64` |
 
+## Distribution status
+
+Reported by **56** distros on [repology.org](https://repology.org/project/lego). **16** are ✅ on the latest upstream release, **30** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Arch | `5.5.2` | ✅ latest |
+| Homebrew | `5.5.2` | ✅ latest |
+| Fedora rawhide | `5.5.1` | ⚠️ outdated |
+| Nix unstable | `5.5.1` | ⚠️ outdated |
+| Void | `4.33.0` | ⚠️ outdated |
+| Alpine edge | `5.5.2` | ✅ latest |
+| openSUSE Tumbleweed | `5.5.2` | ✅ latest |
+
 ## Improve this data
 
 Install metadata for lego lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `lego` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -138,4 +152,4 @@ Install metadata for lego lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T05:49:29Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T05:51:02Z._
