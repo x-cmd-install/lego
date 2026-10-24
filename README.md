@@ -14,13 +14,13 @@ x install lego
 
 ## Code insight
 
-Total: **180,737** lines of code across **2585** files in the top 5 languages.
+Total: **180,761** lines of code across **2585** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 157,467 | 7,551 | 36,525 | 1548 |
+| Go | 157,492 | 7,551 | 36,531 | 1548 |
 | Json | 14,631 | 0 | 7 | 736 |
-| Toml | 6,725 | 3 | 744 | 228 |
+| Toml | 6,724 | 3 | 744 | 228 |
 | Xml | 1,216 | 0 | 7 | 63 |
 | Yaml | 259 | 6 | 30 | 10 |
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v5.5.2` (2026-09-23)
-- **Last commit**: 2026-10-22
+- **Last commit**: 2026-10-23
 - **Assets in release**: 59
 
 ## Popularity
 
-- **Stars**: 9,961 · **Forks**: 1,182 · **Open issues**: 1,294 · **Contributors**: 423
+- **Stars**: 9,964 · **Forks**: 1,182 · **Open issues**: 1,296 · **Contributors**: 423
 
 ## Totals (cumulative)
 
-- **Releases**: 114 · **Merged PRs**: 1551 · **Open PRs**: 15 · **Closed issues**: 1203 · **Open issues**: 91 · **Commits**: 2248
+- **Releases**: 114 · **Merged PRs**: 1553 · **Open PRs**: 15 · **Closed issues**: 1205 · **Open issues**: 91 · **Commits**: 2250
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-23 | 1 | 15 | 1 | 17 | 1 | 19 |
-| last60d | 2026-08-24 | 4 | 39 | 3 | 35 | 4 | 50 |
-| 90d | 2026-07-25 | 5 | 47 | 3 | 41 | 7 | 58 |
-| last180d | 2026-04-26 | 16 | 141 | 5 | 101 | 13 | 180 |
-| 360d | 2025-10-28 | 27 | 360 | 7 | 182 | 18 | 459 |
-| last720d | 2024-11-02 | 42 | 551 | 9 | 287 | 28 | 699 |
+| 30d | 2026-09-24 | 0 | 17 | 1 | 19 | 1 | 21 |
+| last60d | 2026-08-25 | 4 | 40 | 3 | 33 | 4 | 52 |
+| 90d | 2026-07-26 | 5 | 49 | 3 | 43 | 7 | 60 |
+| last180d | 2026-04-27 | 16 | 143 | 5 | 103 | 13 | 182 |
+| 360d | 2025-10-29 | 27 | 359 | 7 | 181 | 18 | 461 |
+| last720d | 2024-11-03 | 42 | 553 | 9 | 289 | 28 | 701 |
 
 ## Release assets
 
@@ -152,4 +152,4 @@ Install metadata for lego lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261023.yml` · 2026-10-23T05:51:02Z._
+_Snapshot: `data/card/261024.yml` · 2026-10-24T05:38:16Z._
