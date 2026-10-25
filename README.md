@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 9,964 · **Forks**: 1,182 · **Open issues**: 1,296 · **Contributors**: 423
+- **Stars**: 9,965 · **Forks**: 1,182 · **Open issues**: 1,296 · **Contributors**: 423
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-24 | 0 | 17 | 1 | 19 | 1 | 21 |
-| last60d | 2026-08-25 | 4 | 40 | 3 | 33 | 4 | 52 |
-| 90d | 2026-07-26 | 5 | 49 | 3 | 43 | 7 | 60 |
-| last180d | 2026-04-27 | 16 | 143 | 5 | 103 | 13 | 182 |
-| 360d | 2025-10-29 | 27 | 359 | 7 | 181 | 18 | 461 |
-| last720d | 2024-11-03 | 42 | 553 | 9 | 289 | 28 | 701 |
+| 30d | 2026-09-25 | 0 | 17 | 1 | 19 | 1 | 21 |
+| last60d | 2026-08-26 | 4 | 40 | 3 | 33 | 3 | 52 |
+| 90d | 2026-07-27 | 5 | 49 | 3 | 43 | 7 | 60 |
+| last180d | 2026-04-28 | 16 | 140 | 5 | 103 | 13 | 182 |
+| 360d | 2025-10-30 | 27 | 357 | 7 | 181 | 18 | 461 |
+| last720d | 2024-11-04 | 42 | 551 | 9 | 288 | 28 | 701 |
 
 ## Release assets
 
@@ -131,7 +131,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **56** distros on [repology.org](https://repology.org/project/lego). **16** are ✅ on the latest upstream release, **30** are ⚠️ on an older version.
+Reported by **56** distros on [repology.org](https://repology.org/project/lego). **18** are ✅ on the latest upstream release, **28** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -152,4 +152,4 @@ Install metadata for lego lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261024.yml` · 2026-10-24T05:38:16Z._
+_Snapshot: `data/card/261025.yml` · 2026-10-25T05:45:14Z._
