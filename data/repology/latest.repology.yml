@@ -1,35 +1,10 @@
-- repo: homebrew
+- repo: chromebrew
   srcname: lego
   visiblename: lego
   version: 5.5.2
   origversion: null
   status: newest
-  summary: Let's Encrypt client and ACME library
-- repo: homebrew
-  srcname: lego
-  visiblename: lego
-  version: HEAD
-  origversion: null
-  status: rolling
-  summary: Let's Encrypt client and ACME library
-- repo: scoop
-  subrepo: main
-  binname: lego
-  visiblename: lego
-  version: 5.5.2
-  origversion: null
-  status: newest
-  licenses:
-    - MIT
-- repo: chimera
-  subrepo: user
-  srcname: lego
-  binname: lego
-  visiblename: lego
-  version: 5.5.2
-  origversion: 5.5.2-r0
-  status: newest
-  summary: Let's Encrypt/ACME client
+  summary: Let's Encrypt/ACME client and library written in Go
   licenses:
     - MIT
 - repo: alpine_3_17
@@ -293,21 +268,23 @@
 - repo: chimera
   subrepo: user
   srcname: lego
+  binname: lego
+  visiblename: lego
+  version: 5.5.2
+  origversion: 5.5.2-r0
+  status: newest
+  summary: Let's Encrypt/ACME client
+  licenses:
+    - MIT
+- repo: chimera
+  subrepo: user
+  srcname: lego
   binname: lego-doc
   visiblename: lego-doc
   version: 5.5.2
   origversion: 5.5.2-r0
   status: newest
   summary: Let's Encrypt/ACME client (documentation)
-  licenses:
-    - MIT
-- repo: chromebrew
-  srcname: lego
-  visiblename: lego
-  version: 5.5.2
-  origversion: null
-  status: newest
-  summary: Let's Encrypt/ACME client and library written in Go
   licenses:
     - MIT
 - repo: fedora_43
@@ -430,6 +407,20 @@
     - MPL-2.0
   categories:
     - app-crypt
+- repo: homebrew
+  srcname: lego
+  visiblename: lego
+  version: 5.5.2
+  origversion: null
+  status: newest
+  summary: Let's Encrypt client and ACME library
+- repo: homebrew
+  srcname: lego
+  visiblename: lego
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Let's Encrypt client and ACME library
 - repo: liguros_stable
   srcname: app-crypt/lego
   visiblename: app-crypt/lego
@@ -752,6 +743,15 @@
   origversion: 5.5.2-1
   status: newest
   summary: Lets Encrypt client and ACME library
+  licenses:
+    - MIT
+- repo: scoop
+  subrepo: main
+  binname: lego
+  visiblename: lego
+  version: 5.5.2
+  origversion: null
+  status: newest
   licenses:
     - MIT
 - repo: termux
