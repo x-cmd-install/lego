@@ -14,13 +14,13 @@ x install lego
 
 ## Code insight
 
-Total: **182,752** lines of code across **2618** files in the top 5 languages.
+Total: **183,098** lines of code across **2621** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 159,273 | 7,619 | 36,983 | 1566 |
-| Json | 14,778 | 0 | 7 | 748 |
-| Toml | 6,786 | 3 | 754 | 231 |
+| Go | 159,595 | 7,619 | 37,012 | 1568 |
+| Json | 14,798 | 0 | 7 | 749 |
+| Toml | 6,790 | 3 | 754 | 231 |
 | Xml | 1,216 | 0 | 7 | 63 |
 | Yaml | 259 | 6 | 30 | 10 |
 
@@ -42,106 +42,106 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v5.5.2` (2026-09-23)
-- **Last commit**: 2026-10-27
+- **Latest**: `v5.6.0` (2026-10-28)
+- **Last commit**: 2026-10-28
 - **Assets in release**: 59
 
 ## Popularity
 
-- **Stars**: 9,977 · **Forks**: 1,182 · **Open issues**: 1,301 · **Contributors**: 423
+- **Stars**: 9,983 · **Forks**: 1,182 · **Open issues**: 1,301 · **Contributors**: 423
 
 ## Totals (cumulative)
 
-- **Releases**: 114 · **Merged PRs**: 1558 · **Open PRs**: 15 · **Closed issues**: 1209 · **Open issues**: 92 · **Commits**: 2255
+- **Releases**: 115 · **Merged PRs**: 1562 · **Open PRs**: 14 · **Closed issues**: 1210 · **Open issues**: 91 · **Commits**: 2260
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-28 | 0 | 21 | 2 | 21 | 3 | 22 |
-| last60d | 2026-08-29 | 4 | 43 | 3 | 35 | 5 | 47 |
-| 90d | 2026-07-30 | 5 | 53 | 3 | 44 | 8 | 64 |
-| last180d | 2026-05-01 | 16 | 142 | 5 | 106 | 14 | 177 |
-| 360d | 2025-11-02 | 26 | 361 | 7 | 185 | 19 | 460 |
-| last720d | 2024-11-07 | 42 | 551 | 9 | 290 | 29 | 701 |
+| 30d | 2026-09-29 | 1 | 25 | 1 | 22 | 1 | 27 |
+| last60d | 2026-08-30 | 5 | 47 | 2 | 36 | 4 | 52 |
+| 90d | 2026-07-31 | 6 | 56 | 2 | 45 | 7 | 69 |
+| last180d | 2026-05-02 | 17 | 146 | 4 | 106 | 13 | 182 |
+| 360d | 2025-11-03 | 27 | 365 | 6 | 186 | 18 | 465 |
+| last720d | 2024-11-08 | 43 | 554 | 8 | 290 | 28 | 704 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [lego_5.5.2_checksums.txt](https://github.com/go-acme/lego/releases/download/v5.5.2/lego_5.5.2_checksums.txt) | 6.0 KiB | `other` |
-| [lego_v5.5.2_darwin_amd64.tar.gz](https://github.com/go-acme/lego/releases/download/v5.5.2/lego_v5.5.2_darwin_amd64.tar.gz) | 20.8 MiB | `native/darwin/x64` |
-| [lego_v5.5.2_darwin_amd64.tar.gz.sbom.json](https://github.com/go-acme/lego/releases/download/v5.5.2/lego_v5.5.2_darwin_amd64.tar.gz.sbom.json) | 330.8 KiB | `native/darwin/x64` |
-| [lego_v5.5.2_darwin_arm64.tar.gz](https://github.com/go-acme/lego/releases/download/v5.5.2/lego_v5.5.2_darwin_arm64.tar.gz) | 19.4 MiB | `native/darwin/arm64` |
-| [lego_v5.5.2_darwin_arm64.tar.gz.sbom.json](https://github.com/go-acme/lego/releases/download/v5.5.2/lego_v5.5.2_darwin_arm64.tar.gz.sbom.json) | 330.8 KiB | `native/darwin/arm64` |
-| [lego_v5.5.2_freebsd_386.tar.gz](https://github.com/go-acme/lego/releases/download/v5.5.2/lego_v5.5.2_freebsd_386.tar.gz) | 18.7 MiB | `native/unknown` |
-| [lego_v5.5.2_freebsd_386.tar.gz.sbom.json](https://github.com/go-acme/lego/releases/download/v5.5.2/lego_v5.5.2_freebsd_386.tar.gz.sbom.json) | 330.6 KiB | `other` |
-| [lego_v5.5.2_freebsd_amd64.tar.gz](https://github.com/go-acme/lego/releases/download/v5.5.2/lego_v5.5.2_freebsd_amd64.tar.gz) | 20.2 MiB | `native/linux/x64` |
-| [lego_v5.5.2_freebsd_amd64.tar.gz.sbom.json](https://github.com/go-acme/lego/releases/download/v5.5.2/lego_v5.5.2_freebsd_amd64.tar.gz.sbom.json) | 331.0 KiB | `other` |
-| [lego_v5.5.2_freebsd_arm64.tar.gz](https://github.com/go-acme/lego/releases/download/v5.5.2/lego_v5.5.2_freebsd_arm64.tar.gz) | 18.2 MiB | `native/linux/arm64` |
-| [lego_v5.5.2_freebsd_arm64.tar.gz.sbom.json](https://github.com/go-acme/lego/releases/download/v5.5.2/lego_v5.5.2_freebsd_arm64.tar.gz.sbom.json) | 331.0 KiB | `other` |
-| [lego_v5.5.2_freebsd_armv5.tar.gz](https://github.com/go-acme/lego/releases/download/v5.5.2/lego_v5.5.2_freebsd_armv5.tar.gz) | 18.8 MiB | `native/linux/arm` |
-| [lego_v5.5.2_freebsd_armv5.tar.gz.sbom.json](https://github.com/go-acme/lego/releases/download/v5.5.2/lego_v5.5.2_freebsd_armv5.tar.gz.sbom.json) | 331.0 KiB | `other` |
-| [lego_v5.5.2_freebsd_armv6.tar.gz](https://github.com/go-acme/lego/releases/download/v5.5.2/lego_v5.5.2_freebsd_armv6.tar.gz) | 18.8 MiB | `native/linux/arm` |
-| [lego_v5.5.2_freebsd_armv6.tar.gz.sbom.json](https://github.com/go-acme/lego/releases/download/v5.5.2/lego_v5.5.2_freebsd_armv6.tar.gz.sbom.json) | 331.0 KiB | `other` |
-| [lego_v5.5.2_freebsd_armv7.tar.gz](https://github.com/go-acme/lego/releases/download/v5.5.2/lego_v5.5.2_freebsd_armv7.tar.gz) | 18.8 MiB | `native/linux/arm` |
-| [lego_v5.5.2_freebsd_armv7.tar.gz.sbom.json](https://github.com/go-acme/lego/releases/download/v5.5.2/lego_v5.5.2_freebsd_armv7.tar.gz.sbom.json) | 331.0 KiB | `other` |
-| [lego_v5.5.2_linux_386.tar.gz](https://github.com/go-acme/lego/releases/download/v5.5.2/lego_v5.5.2_linux_386.tar.gz) | 18.7 MiB | `native/unknown` |
-| [lego_v5.5.2_linux_386.tar.gz.sbom.json](https://github.com/go-acme/lego/releases/download/v5.5.2/lego_v5.5.2_linux_386.tar.gz.sbom.json) | 330.2 KiB | `other` |
-| [lego_v5.5.2_linux_amd64.tar.gz](https://github.com/go-acme/lego/releases/download/v5.5.2/lego_v5.5.2_linux_amd64.tar.gz) | 20.2 MiB | `native/linux/x64` |
-| [lego_v5.5.2_linux_amd64.tar.gz.sbom.json](https://github.com/go-acme/lego/releases/download/v5.5.2/lego_v5.5.2_linux_amd64.tar.gz.sbom.json) | 330.6 KiB | `native/linux/x64` |
-| [lego_v5.5.2_linux_arm64.tar.gz](https://github.com/go-acme/lego/releases/download/v5.5.2/lego_v5.5.2_linux_arm64.tar.gz) | 18.3 MiB | `native/linux/arm64` |
-| [lego_v5.5.2_linux_arm64.tar.gz.sbom.json](https://github.com/go-acme/lego/releases/download/v5.5.2/lego_v5.5.2_linux_arm64.tar.gz.sbom.json) | 330.6 KiB | `native/linux/arm64` |
-| [lego_v5.5.2_linux_armv5.tar.gz](https://github.com/go-acme/lego/releases/download/v5.5.2/lego_v5.5.2_linux_armv5.tar.gz) | 18.9 MiB | `native/linux/arm` |
-| [lego_v5.5.2_linux_armv5.tar.gz.sbom.json](https://github.com/go-acme/lego/releases/download/v5.5.2/lego_v5.5.2_linux_armv5.tar.gz.sbom.json) | 330.6 KiB | `native/linux/arm` |
-| [lego_v5.5.2_linux_armv6.tar.gz](https://github.com/go-acme/lego/releases/download/v5.5.2/lego_v5.5.2_linux_armv6.tar.gz) | 18.9 MiB | `native/linux/arm` |
-| [lego_v5.5.2_linux_armv6.tar.gz.sbom.json](https://github.com/go-acme/lego/releases/download/v5.5.2/lego_v5.5.2_linux_armv6.tar.gz.sbom.json) | 330.6 KiB | `native/linux/arm` |
-| [lego_v5.5.2_linux_armv7.tar.gz](https://github.com/go-acme/lego/releases/download/v5.5.2/lego_v5.5.2_linux_armv7.tar.gz) | 18.8 MiB | `native/linux/arm` |
-| [lego_v5.5.2_linux_armv7.tar.gz.sbom.json](https://github.com/go-acme/lego/releases/download/v5.5.2/lego_v5.5.2_linux_armv7.tar.gz.sbom.json) | 330.6 KiB | `native/linux/arm` |
-| [lego_v5.5.2_linux_mips64le_hardfloat.tar.gz](https://github.com/go-acme/lego/releases/download/v5.5.2/lego_v5.5.2_linux_mips64le_hardfloat.tar.gz) | 16.5 MiB | `native/unknown` |
-| [lego_v5.5.2_linux_mips64le_hardfloat.tar.gz.sbom.json](https://github.com/go-acme/lego/releases/download/v5.5.2/lego_v5.5.2_linux_mips64le_hardfloat.tar.gz.sbom.json) | 333.3 KiB | `other` |
-| [lego_v5.5.2_linux_mips64le_softfloat.tar.gz](https://github.com/go-acme/lego/releases/download/v5.5.2/lego_v5.5.2_linux_mips64le_softfloat.tar.gz) | 16.6 MiB | `native/unknown` |
-| [lego_v5.5.2_linux_mips64le_softfloat.tar.gz.sbom.json](https://github.com/go-acme/lego/releases/download/v5.5.2/lego_v5.5.2_linux_mips64le_softfloat.tar.gz.sbom.json) | 333.3 KiB | `other` |
-| [lego_v5.5.2_linux_mips64_hardfloat.tar.gz](https://github.com/go-acme/lego/releases/download/v5.5.2/lego_v5.5.2_linux_mips64_hardfloat.tar.gz) | 16.7 MiB | `native/unknown` |
-| [lego_v5.5.2_linux_mips64_hardfloat.tar.gz.sbom.json](https://github.com/go-acme/lego/releases/download/v5.5.2/lego_v5.5.2_linux_mips64_hardfloat.tar.gz.sbom.json) | 332.9 KiB | `other` |
-| [lego_v5.5.2_linux_mips64_softfloat.tar.gz](https://github.com/go-acme/lego/releases/download/v5.5.2/lego_v5.5.2_linux_mips64_softfloat.tar.gz) | 16.7 MiB | `native/unknown` |
-| [lego_v5.5.2_linux_mips64_softfloat.tar.gz.sbom.json](https://github.com/go-acme/lego/releases/download/v5.5.2/lego_v5.5.2_linux_mips64_softfloat.tar.gz.sbom.json) | 332.9 KiB | `other` |
-| [lego_v5.5.2_linux_mipsle_hardfloat.tar.gz](https://github.com/go-acme/lego/releases/download/v5.5.2/lego_v5.5.2_linux_mipsle_hardfloat.tar.gz) | 17.0 MiB | `native/unknown` |
-| [lego_v5.5.2_linux_mipsle_hardfloat.tar.gz.sbom.json](https://github.com/go-acme/lego/releases/download/v5.5.2/lego_v5.5.2_linux_mipsle_hardfloat.tar.gz.sbom.json) | 332.9 KiB | `other` |
-| [lego_v5.5.2_linux_mipsle_softfloat.tar.gz](https://github.com/go-acme/lego/releases/download/v5.5.2/lego_v5.5.2_linux_mipsle_softfloat.tar.gz) | 17.0 MiB | `native/unknown` |
-| [lego_v5.5.2_linux_mipsle_softfloat.tar.gz.sbom.json](https://github.com/go-acme/lego/releases/download/v5.5.2/lego_v5.5.2_linux_mipsle_softfloat.tar.gz.sbom.json) | 332.9 KiB | `other` |
-| [lego_v5.5.2_linux_mips_hardfloat.tar.gz](https://github.com/go-acme/lego/releases/download/v5.5.2/lego_v5.5.2_linux_mips_hardfloat.tar.gz) | 17.1 MiB | `native/unknown` |
-| [lego_v5.5.2_linux_mips_hardfloat.tar.gz.sbom.json](https://github.com/go-acme/lego/releases/download/v5.5.2/lego_v5.5.2_linux_mips_hardfloat.tar.gz.sbom.json) | 332.4 KiB | `other` |
-| [lego_v5.5.2_linux_mips_softfloat.tar.gz](https://github.com/go-acme/lego/releases/download/v5.5.2/lego_v5.5.2_linux_mips_softfloat.tar.gz) | 17.1 MiB | `native/unknown` |
-| [lego_v5.5.2_linux_mips_softfloat.tar.gz.sbom.json](https://github.com/go-acme/lego/releases/download/v5.5.2/lego_v5.5.2_linux_mips_softfloat.tar.gz.sbom.json) | 332.4 KiB | `other` |
-| [lego_v5.5.2_openbsd_386.tar.gz](https://github.com/go-acme/lego/releases/download/v5.5.2/lego_v5.5.2_openbsd_386.tar.gz) | 18.7 MiB | `native/unknown` |
-| [lego_v5.5.2_openbsd_386.tar.gz.sbom.json](https://github.com/go-acme/lego/releases/download/v5.5.2/lego_v5.5.2_openbsd_386.tar.gz.sbom.json) | 330.6 KiB | `other` |
-| [lego_v5.5.2_openbsd_amd64.tar.gz](https://github.com/go-acme/lego/releases/download/v5.5.2/lego_v5.5.2_openbsd_amd64.tar.gz) | 20.2 MiB | `native/linux/x64` |
-| [lego_v5.5.2_openbsd_amd64.tar.gz.sbom.json](https://github.com/go-acme/lego/releases/download/v5.5.2/lego_v5.5.2_openbsd_amd64.tar.gz.sbom.json) | 331.0 KiB | `other` |
-| [lego_v5.5.2_openbsd_arm64.tar.gz](https://github.com/go-acme/lego/releases/download/v5.5.2/lego_v5.5.2_openbsd_arm64.tar.gz) | 18.2 MiB | `native/linux/arm64` |
-| [lego_v5.5.2_openbsd_arm64.tar.gz.sbom.json](https://github.com/go-acme/lego/releases/download/v5.5.2/lego_v5.5.2_openbsd_arm64.tar.gz.sbom.json) | 331.0 KiB | `other` |
-| [lego_v5.5.2_solaris_amd64.tar.gz](https://github.com/go-acme/lego/releases/download/v5.5.2/lego_v5.5.2_solaris_amd64.tar.gz) | 20.2 MiB | `native/linux/x64` |
-| [lego_v5.5.2_solaris_amd64.tar.gz.sbom.json](https://github.com/go-acme/lego/releases/download/v5.5.2/lego_v5.5.2_solaris_amd64.tar.gz.sbom.json) | 331.0 KiB | `other` |
-| [lego_v5.5.2_windows_386.zip](https://github.com/go-acme/lego/releases/download/v5.5.2/lego_v5.5.2_windows_386.zip) | 19.5 MiB | `native/win/x64` |
-| [lego_v5.5.2_windows_386.zip.sbom.json](https://github.com/go-acme/lego/releases/download/v5.5.2/lego_v5.5.2_windows_386.zip.sbom.json) | 323.8 KiB | `native/win/x64` |
-| [lego_v5.5.2_windows_amd64.zip](https://github.com/go-acme/lego/releases/download/v5.5.2/lego_v5.5.2_windows_amd64.zip) | 20.5 MiB | `native/win/x64` |
-| [lego_v5.5.2_windows_amd64.zip.sbom.json](https://github.com/go-acme/lego/releases/download/v5.5.2/lego_v5.5.2_windows_amd64.zip.sbom.json) | 324.2 KiB | `native/win/x64` |
-| [lego_v5.5.2_windows_arm64.zip](https://github.com/go-acme/lego/releases/download/v5.5.2/lego_v5.5.2_windows_arm64.zip) | 18.2 MiB | `native/win/arm64` |
-| [lego_v5.5.2_windows_arm64.zip.sbom.json](https://github.com/go-acme/lego/releases/download/v5.5.2/lego_v5.5.2_windows_arm64.zip.sbom.json) | 324.2 KiB | `native/win/arm64` |
+| [lego_5.6.0_checksums.txt](https://github.com/go-acme/lego/releases/download/v5.6.0/lego_5.6.0_checksums.txt) | 6.0 KiB | `other` |
+| [lego_v5.6.0_darwin_amd64.tar.gz](https://github.com/go-acme/lego/releases/download/v5.6.0/lego_v5.6.0_darwin_amd64.tar.gz) | 14.7 MiB | `native/darwin/x64` |
+| [lego_v5.6.0_darwin_amd64.tar.gz.sbom.json](https://github.com/go-acme/lego/releases/download/v5.6.0/lego_v5.6.0_darwin_amd64.tar.gz.sbom.json) | 332.5 KiB | `native/darwin/x64` |
+| [lego_v5.6.0_darwin_arm64.tar.gz](https://github.com/go-acme/lego/releases/download/v5.6.0/lego_v5.6.0_darwin_arm64.tar.gz) | 13.7 MiB | `native/darwin/arm64` |
+| [lego_v5.6.0_darwin_arm64.tar.gz.sbom.json](https://github.com/go-acme/lego/releases/download/v5.6.0/lego_v5.6.0_darwin_arm64.tar.gz.sbom.json) | 332.5 KiB | `native/darwin/arm64` |
+| [lego_v5.6.0_freebsd_386.tar.gz](https://github.com/go-acme/lego/releases/download/v5.6.0/lego_v5.6.0_freebsd_386.tar.gz) | 13.3 MiB | `native/unknown` |
+| [lego_v5.6.0_freebsd_386.tar.gz.sbom.json](https://github.com/go-acme/lego/releases/download/v5.6.0/lego_v5.6.0_freebsd_386.tar.gz.sbom.json) | 332.3 KiB | `other` |
+| [lego_v5.6.0_freebsd_amd64.tar.gz](https://github.com/go-acme/lego/releases/download/v5.6.0/lego_v5.6.0_freebsd_amd64.tar.gz) | 14.3 MiB | `native/linux/x64` |
+| [lego_v5.6.0_freebsd_amd64.tar.gz.sbom.json](https://github.com/go-acme/lego/releases/download/v5.6.0/lego_v5.6.0_freebsd_amd64.tar.gz.sbom.json) | 332.7 KiB | `other` |
+| [lego_v5.6.0_freebsd_arm64.tar.gz](https://github.com/go-acme/lego/releases/download/v5.6.0/lego_v5.6.0_freebsd_arm64.tar.gz) | 12.9 MiB | `native/linux/arm64` |
+| [lego_v5.6.0_freebsd_arm64.tar.gz.sbom.json](https://github.com/go-acme/lego/releases/download/v5.6.0/lego_v5.6.0_freebsd_arm64.tar.gz.sbom.json) | 332.7 KiB | `other` |
+| [lego_v5.6.0_freebsd_armv5.tar.gz](https://github.com/go-acme/lego/releases/download/v5.6.0/lego_v5.6.0_freebsd_armv5.tar.gz) | 13.5 MiB | `native/linux/arm` |
+| [lego_v5.6.0_freebsd_armv5.tar.gz.sbom.json](https://github.com/go-acme/lego/releases/download/v5.6.0/lego_v5.6.0_freebsd_armv5.tar.gz.sbom.json) | 332.7 KiB | `other` |
+| [lego_v5.6.0_freebsd_armv6.tar.gz](https://github.com/go-acme/lego/releases/download/v5.6.0/lego_v5.6.0_freebsd_armv6.tar.gz) | 13.5 MiB | `native/linux/arm` |
+| [lego_v5.6.0_freebsd_armv6.tar.gz.sbom.json](https://github.com/go-acme/lego/releases/download/v5.6.0/lego_v5.6.0_freebsd_armv6.tar.gz.sbom.json) | 332.7 KiB | `other` |
+| [lego_v5.6.0_freebsd_armv7.tar.gz](https://github.com/go-acme/lego/releases/download/v5.6.0/lego_v5.6.0_freebsd_armv7.tar.gz) | 13.5 MiB | `native/linux/arm` |
+| [lego_v5.6.0_freebsd_armv7.tar.gz.sbom.json](https://github.com/go-acme/lego/releases/download/v5.6.0/lego_v5.6.0_freebsd_armv7.tar.gz.sbom.json) | 332.7 KiB | `other` |
+| [lego_v5.6.0_linux_386.tar.gz](https://github.com/go-acme/lego/releases/download/v5.6.0/lego_v5.6.0_linux_386.tar.gz) | 13.4 MiB | `native/unknown` |
+| [lego_v5.6.0_linux_386.tar.gz.sbom.json](https://github.com/go-acme/lego/releases/download/v5.6.0/lego_v5.6.0_linux_386.tar.gz.sbom.json) | 331.9 KiB | `other` |
+| [lego_v5.6.0_linux_amd64.tar.gz](https://github.com/go-acme/lego/releases/download/v5.6.0/lego_v5.6.0_linux_amd64.tar.gz) | 14.3 MiB | `native/linux/x64` |
+| [lego_v5.6.0_linux_amd64.tar.gz.sbom.json](https://github.com/go-acme/lego/releases/download/v5.6.0/lego_v5.6.0_linux_amd64.tar.gz.sbom.json) | 332.3 KiB | `native/linux/x64` |
+| [lego_v5.6.0_linux_arm64.tar.gz](https://github.com/go-acme/lego/releases/download/v5.6.0/lego_v5.6.0_linux_arm64.tar.gz) | 13.0 MiB | `native/linux/arm64` |
+| [lego_v5.6.0_linux_arm64.tar.gz.sbom.json](https://github.com/go-acme/lego/releases/download/v5.6.0/lego_v5.6.0_linux_arm64.tar.gz.sbom.json) | 332.3 KiB | `native/linux/arm64` |
+| [lego_v5.6.0_linux_armv5.tar.gz](https://github.com/go-acme/lego/releases/download/v5.6.0/lego_v5.6.0_linux_armv5.tar.gz) | 13.5 MiB | `native/linux/arm` |
+| [lego_v5.6.0_linux_armv5.tar.gz.sbom.json](https://github.com/go-acme/lego/releases/download/v5.6.0/lego_v5.6.0_linux_armv5.tar.gz.sbom.json) | 332.3 KiB | `native/linux/arm` |
+| [lego_v5.6.0_linux_armv6.tar.gz](https://github.com/go-acme/lego/releases/download/v5.6.0/lego_v5.6.0_linux_armv6.tar.gz) | 13.5 MiB | `native/linux/arm` |
+| [lego_v5.6.0_linux_armv6.tar.gz.sbom.json](https://github.com/go-acme/lego/releases/download/v5.6.0/lego_v5.6.0_linux_armv6.tar.gz.sbom.json) | 332.3 KiB | `native/linux/arm` |
+| [lego_v5.6.0_linux_armv7.tar.gz](https://github.com/go-acme/lego/releases/download/v5.6.0/lego_v5.6.0_linux_armv7.tar.gz) | 13.5 MiB | `native/linux/arm` |
+| [lego_v5.6.0_linux_armv7.tar.gz.sbom.json](https://github.com/go-acme/lego/releases/download/v5.6.0/lego_v5.6.0_linux_armv7.tar.gz.sbom.json) | 332.3 KiB | `native/linux/arm` |
+| [lego_v5.6.0_linux_mips64le_hardfloat.tar.gz](https://github.com/go-acme/lego/releases/download/v5.6.0/lego_v5.6.0_linux_mips64le_hardfloat.tar.gz) | 12.1 MiB | `native/unknown` |
+| [lego_v5.6.0_linux_mips64le_hardfloat.tar.gz.sbom.json](https://github.com/go-acme/lego/releases/download/v5.6.0/lego_v5.6.0_linux_mips64le_hardfloat.tar.gz.sbom.json) | 334.9 KiB | `other` |
+| [lego_v5.6.0_linux_mips64le_softfloat.tar.gz](https://github.com/go-acme/lego/releases/download/v5.6.0/lego_v5.6.0_linux_mips64le_softfloat.tar.gz) | 12.1 MiB | `native/unknown` |
+| [lego_v5.6.0_linux_mips64le_softfloat.tar.gz.sbom.json](https://github.com/go-acme/lego/releases/download/v5.6.0/lego_v5.6.0_linux_mips64le_softfloat.tar.gz.sbom.json) | 334.9 KiB | `other` |
+| [lego_v5.6.0_linux_mips64_hardfloat.tar.gz](https://github.com/go-acme/lego/releases/download/v5.6.0/lego_v5.6.0_linux_mips64_hardfloat.tar.gz) | 12.2 MiB | `native/unknown` |
+| [lego_v5.6.0_linux_mips64_hardfloat.tar.gz.sbom.json](https://github.com/go-acme/lego/releases/download/v5.6.0/lego_v5.6.0_linux_mips64_hardfloat.tar.gz.sbom.json) | 334.5 KiB | `other` |
+| [lego_v5.6.0_linux_mips64_softfloat.tar.gz](https://github.com/go-acme/lego/releases/download/v5.6.0/lego_v5.6.0_linux_mips64_softfloat.tar.gz) | 12.2 MiB | `native/unknown` |
+| [lego_v5.6.0_linux_mips64_softfloat.tar.gz.sbom.json](https://github.com/go-acme/lego/releases/download/v5.6.0/lego_v5.6.0_linux_mips64_softfloat.tar.gz.sbom.json) | 334.5 KiB | `other` |
+| [lego_v5.6.0_linux_mipsle_hardfloat.tar.gz](https://github.com/go-acme/lego/releases/download/v5.6.0/lego_v5.6.0_linux_mipsle_hardfloat.tar.gz) | 12.5 MiB | `native/unknown` |
+| [lego_v5.6.0_linux_mipsle_hardfloat.tar.gz.sbom.json](https://github.com/go-acme/lego/releases/download/v5.6.0/lego_v5.6.0_linux_mipsle_hardfloat.tar.gz.sbom.json) | 334.5 KiB | `other` |
+| [lego_v5.6.0_linux_mipsle_softfloat.tar.gz](https://github.com/go-acme/lego/releases/download/v5.6.0/lego_v5.6.0_linux_mipsle_softfloat.tar.gz) | 12.5 MiB | `native/unknown` |
+| [lego_v5.6.0_linux_mipsle_softfloat.tar.gz.sbom.json](https://github.com/go-acme/lego/releases/download/v5.6.0/lego_v5.6.0_linux_mipsle_softfloat.tar.gz.sbom.json) | 334.5 KiB | `other` |
+| [lego_v5.6.0_linux_mips_hardfloat.tar.gz](https://github.com/go-acme/lego/releases/download/v5.6.0/lego_v5.6.0_linux_mips_hardfloat.tar.gz) | 12.5 MiB | `native/unknown` |
+| [lego_v5.6.0_linux_mips_hardfloat.tar.gz.sbom.json](https://github.com/go-acme/lego/releases/download/v5.6.0/lego_v5.6.0_linux_mips_hardfloat.tar.gz.sbom.json) | 334.1 KiB | `other` |
+| [lego_v5.6.0_linux_mips_softfloat.tar.gz](https://github.com/go-acme/lego/releases/download/v5.6.0/lego_v5.6.0_linux_mips_softfloat.tar.gz) | 12.5 MiB | `native/unknown` |
+| [lego_v5.6.0_linux_mips_softfloat.tar.gz.sbom.json](https://github.com/go-acme/lego/releases/download/v5.6.0/lego_v5.6.0_linux_mips_softfloat.tar.gz.sbom.json) | 334.1 KiB | `other` |
+| [lego_v5.6.0_openbsd_386.tar.gz](https://github.com/go-acme/lego/releases/download/v5.6.0/lego_v5.6.0_openbsd_386.tar.gz) | 13.3 MiB | `native/unknown` |
+| [lego_v5.6.0_openbsd_386.tar.gz.sbom.json](https://github.com/go-acme/lego/releases/download/v5.6.0/lego_v5.6.0_openbsd_386.tar.gz.sbom.json) | 332.3 KiB | `other` |
+| [lego_v5.6.0_openbsd_amd64.tar.gz](https://github.com/go-acme/lego/releases/download/v5.6.0/lego_v5.6.0_openbsd_amd64.tar.gz) | 14.3 MiB | `native/linux/x64` |
+| [lego_v5.6.0_openbsd_amd64.tar.gz.sbom.json](https://github.com/go-acme/lego/releases/download/v5.6.0/lego_v5.6.0_openbsd_amd64.tar.gz.sbom.json) | 332.7 KiB | `other` |
+| [lego_v5.6.0_openbsd_arm64.tar.gz](https://github.com/go-acme/lego/releases/download/v5.6.0/lego_v5.6.0_openbsd_arm64.tar.gz) | 12.9 MiB | `native/linux/arm64` |
+| [lego_v5.6.0_openbsd_arm64.tar.gz.sbom.json](https://github.com/go-acme/lego/releases/download/v5.6.0/lego_v5.6.0_openbsd_arm64.tar.gz.sbom.json) | 332.7 KiB | `other` |
+| [lego_v5.6.0_solaris_amd64.tar.gz](https://github.com/go-acme/lego/releases/download/v5.6.0/lego_v5.6.0_solaris_amd64.tar.gz) | 14.3 MiB | `native/linux/x64` |
+| [lego_v5.6.0_solaris_amd64.tar.gz.sbom.json](https://github.com/go-acme/lego/releases/download/v5.6.0/lego_v5.6.0_solaris_amd64.tar.gz.sbom.json) | 332.7 KiB | `other` |
+| [lego_v5.6.0_windows_386.zip](https://github.com/go-acme/lego/releases/download/v5.6.0/lego_v5.6.0_windows_386.zip) | 13.9 MiB | `native/win/x64` |
+| [lego_v5.6.0_windows_386.zip.sbom.json](https://github.com/go-acme/lego/releases/download/v5.6.0/lego_v5.6.0_windows_386.zip.sbom.json) | 323.9 KiB | `native/win/x64` |
+| [lego_v5.6.0_windows_amd64.zip](https://github.com/go-acme/lego/releases/download/v5.6.0/lego_v5.6.0_windows_amd64.zip) | 14.5 MiB | `native/win/x64` |
+| [lego_v5.6.0_windows_amd64.zip.sbom.json](https://github.com/go-acme/lego/releases/download/v5.6.0/lego_v5.6.0_windows_amd64.zip.sbom.json) | 324.3 KiB | `native/win/x64` |
+| [lego_v5.6.0_windows_arm64.zip](https://github.com/go-acme/lego/releases/download/v5.6.0/lego_v5.6.0_windows_arm64.zip) | 12.9 MiB | `native/win/arm64` |
+| [lego_v5.6.0_windows_arm64.zip.sbom.json](https://github.com/go-acme/lego/releases/download/v5.6.0/lego_v5.6.0_windows_arm64.zip.sbom.json) | 324.3 KiB | `native/win/arm64` |
 
 ## Distribution status
 
-Reported by **56** distros on [repology.org](https://repology.org/project/lego). **18** are ✅ on the latest upstream release, **28** are ⚠️ on an older version.
+Reported by **56** distros on [repology.org](https://repology.org/project/lego). **5** are ✅ on the latest upstream release, **41** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Arch | `5.5.2` | ✅ latest |
-| Homebrew | `5.5.2` | ✅ latest |
+| Arch | `5.5.2` | ⚠️ outdated |
+| Homebrew | `5.6.0` | ✅ latest |
 | Fedora rawhide | `5.5.1` | ⚠️ outdated |
 | Nix unstable | `5.5.1` | ⚠️ outdated |
 | Void | `4.33.0` | ⚠️ outdated |
-| Alpine edge | `5.5.2` | ✅ latest |
-| openSUSE Tumbleweed | `5.5.2` | ✅ latest |
+| Alpine edge | `5.5.2` | ⚠️ outdated |
+| openSUSE Tumbleweed | `5.5.2` | ⚠️ outdated |
 
 ## Improve this data
 
@@ -152,4 +152,4 @@ Install metadata for lego lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261028.yml` · 2026-10-28T06:43:50Z._
+_Snapshot: `data/card/261029.yml` · 2026-10-29T07:06:22Z._
