@@ -173,7 +173,7 @@
   binname: lego
   visiblename: lego
   version: 5.5.2
-  origversion: 5.5.2-r0
+  origversion: 5.5.2-r1
   status: outdated
   summary: Let's Encrypt client and ACME library written in Go
   maintainers:
@@ -186,7 +186,7 @@
   binname: lego-doc
   visiblename: lego-doc
   version: 5.5.2
-  origversion: 5.5.2-r0
+  origversion: 5.5.2-r1
   status: outdated
   summary: Let's Encrypt client and ACME library written in Go (documentation)
   maintainers:
@@ -339,9 +339,9 @@
   srcname: security/lego
   binname: lego
   visiblename: security/lego
-  version: 5.5.2
-  origversion: 5.5.2_2
-  status: outdated
+  version: 5.6.0
+  origversion: null
+  status: newest
   summary: Let's Encrypt client and ACME library written in Go
   maintainers:
     - matt@matthoran.com
