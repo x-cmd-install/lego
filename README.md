@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 9,989 · **Forks**: 1,181 · **Open issues**: 1,301 · **Contributors**: 423
+- **Stars**: 9,994 · **Forks**: 1,181 · **Open issues**: 1,302 · **Contributors**: 423
 
 ## Totals (cumulative)
 
-- **Releases**: 115 · **Merged PRs**: 1564 · **Open PRs**: 13 · **Closed issues**: 1211 · **Open issues**: 90 · **Commits**: 2262
+- **Releases**: 115 · **Merged PRs**: 1564 · **Open PRs**: 14 · **Closed issues**: 1211 · **Open issues**: 91 · **Commits**: 2262
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-01 | 1 | 26 | 0 | 22 | 1 | 29 |
-| last60d | 2026-09-01 | 4 | 42 | 2 | 35 | 4 | 54 |
-| 90d | 2026-08-02 | 6 | 56 | 2 | 44 | 7 | 71 |
-| last180d | 2026-05-04 | 17 | 141 | 4 | 103 | 13 | 184 |
-| 360d | 2025-11-05 | 27 | 366 | 5 | 186 | 17 | 467 |
-| last720d | 2024-11-10 | 43 | 552 | 7 | 291 | 27 | 704 |
+| 30d | 2026-10-02 | 1 | 26 | 1 | 22 | 2 | 26 |
+| last60d | 2026-09-02 | 4 | 42 | 3 | 34 | 5 | 50 |
+| 90d | 2026-08-03 | 6 | 56 | 3 | 44 | 8 | 70 |
+| last180d | 2026-05-05 | 17 | 140 | 5 | 103 | 14 | 161 |
+| 360d | 2025-11-06 | 27 | 364 | 6 | 185 | 18 | 460 |
+| last720d | 2024-11-11 | 43 | 547 | 8 | 289 | 28 | 701 |
 
 ## Release assets
 
@@ -131,7 +131,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **56** distros on [repology.org](https://repology.org/project/lego). **6** are ✅ on the latest upstream release, **40** are ⚠️ on an older version.
+Reported by **56** distros on [repology.org](https://repology.org/project/lego). **8** are ✅ on the latest upstream release, **38** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -152,4 +152,4 @@ Install metadata for lego lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261031.yml` · 2026-10-31T06:46:01Z._
+_Snapshot: `data/card/261101.yml` · 2026-11-01T07:14:21Z._
