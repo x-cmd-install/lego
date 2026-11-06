@@ -102,18 +102,6 @@
     - clandmeter@alpinelinux.org
   licenses:
     - MIT
-- repo: openbsd
-  srcname: security/lego
-  binname: lego
-  visiblename: security/lego
-  version: 4.35.2
-  origversion: null
-  status: outdated
-  summary: Let's Encrypt/ACME client written in Go
-  maintainers:
-    - horia@racoviceanu.com
-  categories:
-    - security
 - repo: alpine_3_22
   subrepo: community
   srcname: lego
@@ -399,17 +387,6 @@
     - MPL-2.0
   categories:
     - app-crypt
-- repo: openpkg_current
-  srcname: lego
-  visiblename: lego
-  version: "20190105"
-  origversion: null
-  status: untrusted
-  summary: ACME Client Utility
-  licenses:
-    - MIT
-  categories:
-    - Cryptography
 - repo: gentoo
   srcname: app-crypt/lego
   visiblename: app-crypt/lego
@@ -718,6 +695,29 @@
     - lucas+nix@m1cr0man.com
   licenses:
     - MIT
+- repo: openbsd
+  srcname: security/lego
+  binname: lego
+  visiblename: security/lego
+  version: 4.35.2
+  origversion: null
+  status: outdated
+  summary: Let's Encrypt/ACME client written in Go
+  maintainers:
+    - horia@racoviceanu.com
+  categories:
+    - security
+- repo: openpkg_current
+  srcname: lego
+  visiblename: lego
+  version: "20190105"
+  origversion: null
+  status: untrusted
+  summary: ACME Client Utility
+  licenses:
+    - MIT
+  categories:
+    - Cryptography
 - repo: opensuse_tumbleweed
   subrepo: src-oss
   srcname: lego
