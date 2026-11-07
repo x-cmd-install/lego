@@ -14,13 +14,13 @@ x install lego
 
 ## Code insight
 
-Total: **185,385** lines of code across **2656** files in the top 5 languages.
+Total: **185,387** lines of code across **2657** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 161,343 | 7,664 | 37,457 | 1582 |
-| Json | 15,291 | 0 | 8 | 768 |
-| Toml | 6,836 | 3 | 760 | 233 |
+| Go | 161,335 | 7,661 | 37,435 | 1582 |
+| Json | 15,299 | 0 | 8 | 769 |
+| Toml | 6,838 | 3 | 760 | 233 |
 | Xml | 1,216 | 0 | 7 | 63 |
 | Yaml | 259 | 6 | 30 | 10 |
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v5.6.0` (2026-10-28)
-- **Last commit**: 2026-11-05
+- **Last commit**: 2026-11-06
 - **Assets in release**: 59
 
 ## Popularity
 
-- **Stars**: 10,009 · **Forks**: 1,182 · **Open issues**: 1,307 · **Contributors**: 423
+- **Stars**: 10,009 · **Forks**: 1,183 · **Open issues**: 1,307 · **Contributors**: 423
 
 ## Totals (cumulative)
 
-- **Releases**: 115 · **Merged PRs**: 1571 · **Open PRs**: 15 · **Closed issues**: 1217 · **Open issues**: 90 · **Commits**: 2271
+- **Releases**: 115 · **Merged PRs**: 1573 · **Open PRs**: 15 · **Closed issues**: 1217 · **Open issues**: 90 · **Commits**: 2273
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-07 | 1 | 30 | 2 | 22 | 2 | 35 |
-| last60d | 2026-09-07 | 4 | 45 | 3 | 35 | 4 | 59 |
-| 90d | 2026-08-08 | 6 | 63 | 4 | 49 | 7 | 79 |
-| last180d | 2026-05-10 | 17 | 138 | 5 | 106 | 14 | 170 |
-| 360d | 2025-11-11 | 26 | 367 | 7 | 187 | 18 | 469 |
-| last720d | 2024-11-16 | 42 | 550 | 9 | 293 | 28 | 693 |
+| 30d | 2026-10-08 | 1 | 32 | 2 | 20 | 2 | 37 |
+| last60d | 2026-09-08 | 4 | 47 | 3 | 34 | 4 | 61 |
+| 90d | 2026-08-09 | 6 | 65 | 4 | 49 | 6 | 81 |
+| last180d | 2026-05-11 | 17 | 132 | 5 | 104 | 14 | 172 |
+| 360d | 2025-11-12 | 26 | 369 | 7 | 187 | 18 | 471 |
+| last720d | 2024-11-17 | 42 | 552 | 9 | 292 | 28 | 695 |
 
 ## Release assets
 
@@ -131,7 +131,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **56** distros on [repology.org](https://repology.org/project/lego). **11** are ✅ on the latest upstream release, **35** are ⚠️ on an older version.
+Reported by **55** distros on [repology.org](https://repology.org/project/lego). **12** are ✅ on the latest upstream release, **34** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -152,4 +152,4 @@ Install metadata for lego lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261106.yml` · 2026-11-06T07:57:22Z._
+_Snapshot: `data/card/261107.yml` · 2026-11-07T07:13:23Z._
