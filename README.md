@@ -14,14 +14,14 @@ x install lego
 
 ## Code insight
 
-Total: **185,387** lines of code across **2657** files in the top 5 languages.
+Total: **185,815** lines of code across **2662** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 161,335 | 7,661 | 37,435 | 1582 |
-| Json | 15,299 | 0 | 8 | 769 |
+| Go | 161,500 | 7,669 | 37,462 | 1583 |
+| Json | 15,461 | 0 | 8 | 770 |
 | Toml | 6,838 | 3 | 760 | 233 |
-| Xml | 1,216 | 0 | 7 | 63 |
+| Xml | 1,317 | 0 | 7 | 66 |
 | Yaml | 259 | 6 | 30 | 10 |
 
 ## OpenSSF Scorecard
@@ -30,7 +30,7 @@ Overall score: **6.2 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (0/10) — Found 1/26 approved changesets -- score normalized to 0
+- **Code-Review** (0/10) — Found 1/29 approved changesets -- score normalized to 0
 - **CII-Best-Practices** (2/10) — badge detected: InProgress
 - **Fuzzing** (0/10) — project is not fuzzed
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v5.6.0` (2026-10-28)
-- **Last commit**: 2026-11-06
+- **Last commit**: 2026-11-10
 - **Assets in release**: 59
 
 ## Popularity
 
-- **Stars**: 10,014 · **Forks**: 1,182 · **Open issues**: 1,307 · **Contributors**: 423
+- **Stars**: 10,016 · **Forks**: 1,183 · **Open issues**: 1,308 · **Contributors**: 423
 
 ## Totals (cumulative)
 
-- **Releases**: 115 · **Merged PRs**: 1573 · **Open PRs**: 15 · **Closed issues**: 1217 · **Open issues**: 90 · **Commits**: 2273
+- **Releases**: 115 · **Merged PRs**: 1574 · **Open PRs**: 15 · **Closed issues**: 1217 · **Open issues**: 91 · **Commits**: 2274
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-09 | 1 | 29 | 2 | 19 | 2 | 37 |
-| last60d | 2026-09-09 | 4 | 46 | 3 | 32 | 4 | 61 |
-| 90d | 2026-08-10 | 6 | 65 | 4 | 49 | 6 | 81 |
-| last180d | 2026-05-12 | 16 | 130 | 5 | 101 | 14 | 172 |
-| 360d | 2025-11-13 | 26 | 368 | 7 | 187 | 18 | 471 |
-| last720d | 2024-11-18 | 42 | 550 | 9 | 292 | 28 | 695 |
+| 30d | 2026-10-11 | 1 | 28 | 2 | 17 | 3 | 32 |
+| last60d | 2026-09-11 | 4 | 45 | 3 | 31 | 5 | 57 |
+| 90d | 2026-08-12 | 6 | 66 | 4 | 49 | 7 | 82 |
+| last180d | 2026-05-14 | 13 | 121 | 5 | 96 | 15 | 146 |
+| 360d | 2025-11-15 | 26 | 369 | 7 | 187 | 19 | 468 |
+| last720d | 2024-11-20 | 42 | 550 | 9 | 292 | 29 | 696 |
 
 ## Release assets
 
@@ -131,7 +131,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **55** distros on [repology.org](https://repology.org/project/lego). **12** are ✅ on the latest upstream release, **34** are ⚠️ on an older version.
+Reported by **55** distros on [repology.org](https://repology.org/project/lego). **14** are ✅ on the latest upstream release, **32** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -152,4 +152,4 @@ Install metadata for lego lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261108.yml` · 2026-11-08T07:07:15Z._
+_Snapshot: `data/card/261110.yml` · 2026-11-10T08:55:05Z._
