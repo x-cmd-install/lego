@@ -63,6 +63,18 @@
     - clandmeter@alpinelinux.org
   licenses:
     - MIT
+- repo: aosc
+  srcname: app-web/lego
+  binname: lego
+  visiblename: lego
+  version: 4.33.0
+  origversion: 4.33.0-3
+  status: outdated
+  summary: Let's Encrypt/ACME client and library
+  maintainers:
+    - fallback-mnt-aosc@repology
+  categories:
+    - web
 - repo: alpine_3_21
   subrepo: community
   srcname: lego
@@ -209,18 +221,6 @@
     - MIT
   categories:
     - Development/Tools
-- repo: aosc
-  srcname: app-web/lego
-  binname: lego
-  visiblename: lego
-  version: 4.33.0
-  origversion: 4.33.0-3
-  status: outdated
-  summary: Let's Encrypt/ACME client and library
-  maintainers:
-    - fallback-mnt-aosc@repology
-  categories:
-    - web
 - repo: arch
   subrepo: extra
   srcname: lego
@@ -340,7 +340,7 @@
   binname: lego
   visiblename: security/lego
   version: 5.6.0
-  origversion: null
+  origversion: 5.6.0_1
   status: newest
   summary: Let's Encrypt client and ACME library written in Go
   maintainers:
