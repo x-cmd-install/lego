@@ -1,20 +1,17 @@
 - repo: homebrew
   srcname: lego
   visiblename: lego
+  version: 5.6.0
+  origversion: null
+  status: newest
+  summary: Let's Encrypt client and ACME library
+- repo: homebrew
+  srcname: lego
+  visiblename: lego
   version: HEAD
   origversion: null
   status: rolling
   summary: Let's Encrypt client and ACME library
-- repo: termux
-  srcname: lego
-  binname: lego
-  visiblename: lego
-  version: 5.6.0
-  origversion: null
-  status: newest
-  summary: Let's Encrypt/ACME client and library written in Go
-  maintainers:
-    - info@unordinary.eu.org
 - repo: alpine_3_17
   subrepo: community
   srcname: lego
@@ -336,6 +333,21 @@
     - Apache-2.0 AND BSD-2-Clause AND BSD-3-Clause AND ISC AND MIT AND MPL-2.0
   categories:
     - Unspecified
+- repo: nix_stable_25_05
+  srcname: lego
+  visiblename: lego
+  version: 4.23.1
+  origversion: null
+  status: outdated
+  summary: Let's Encrypt client and ACME library written in Go
+  maintainers:
+    - aaron@fosslib.net
+    - arian.vanputten@gmail.com
+    - nixpkgs@emily.moe
+    - flokli@flokli.de
+    - lucas+nix@m1cr0man.com
+  licenses:
+    - MIT
 - repo: fedora_rawhide
   subrepo: development
   srcname: lego
@@ -424,13 +436,6 @@
     - MPL-2.0
   categories:
     - app-crypt
-- repo: homebrew
-  srcname: lego
-  visiblename: lego
-  version: 5.6.0
-  origversion: null
-  status: newest
-  summary: Let's Encrypt client and ACME library
 - repo: liguros_stable
   srcname: app-crypt/lego
   visiblename: app-crypt/lego
@@ -648,21 +653,6 @@
     - lucas+nix@m1cr0man.com
   licenses:
     - MIT
-- repo: nix_stable_25_05
-  srcname: lego
-  visiblename: lego
-  version: 4.23.1
-  origversion: null
-  status: outdated
-  summary: Let's Encrypt client and ACME library written in Go
-  maintainers:
-    - aaron@fosslib.net
-    - arian.vanputten@gmail.com
-    - nixpkgs@emily.moe
-    - flokli@flokli.de
-    - lucas+nix@m1cr0man.com
-  licenses:
-    - MIT
 - repo: nix_stable_25_11
   srcname: lego
   visiblename: lego
@@ -753,6 +743,16 @@
   status: newest
   licenses:
     - MIT
+- repo: termux
+  srcname: lego
+  binname: lego
+  visiblename: lego
+  version: 5.6.0
+  origversion: null
+  status: newest
+  summary: Let's Encrypt/ACME client and library written in Go
+  maintainers:
+    - info@unordinary.eu.org
 - repo: void_x86_64
   subrepo: x86_64
   srcname: lego
