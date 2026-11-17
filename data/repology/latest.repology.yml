@@ -319,6 +319,22 @@
     - Apache-2.0 AND BSD-2-Clause AND BSD-3-Clause AND ISC AND MIT AND MPL-2.0
   categories:
     - Unspecified
+- repo: fedora_45
+  subrepo: release
+  srcname: lego
+  binnames:
+    - lego
+    - lego-debuginfo
+    - lego-debugsource
+  visiblename: lego
+  version: 5.5.1
+  origversion: 5.5.1-1.fc45
+  status: outdated
+  summary: Let's Encrypt/ACME client written in Go
+  licenses:
+    - Apache-2.0 AND BSD-2-Clause AND BSD-3-Clause AND ISC AND MIT AND MPL-2.0
+  categories:
+    - Unspecified
 - repo: fedora_rawhide
   subrepo: development
   srcname: lego
@@ -367,15 +383,6 @@
     - MPL-2.0
   categories:
     - app-crypt
-- repo: scoop
-  subrepo: main
-  binname: lego
-  visiblename: lego
-  version: 5.6.0
-  origversion: null
-  status: newest
-  licenses:
-    - MIT
 - repo: gentoo
   srcname: app-crypt/lego
   visiblename: app-crypt/lego
@@ -530,16 +537,6 @@
     - MPL-2.0
   categories:
     - app-crypt
-- repo: termux
-  srcname: lego
-  binname: lego
-  visiblename: lego
-  version: 5.6.0
-  origversion: null
-  status: newest
-  summary: Let's Encrypt/ACME client and library written in Go
-  maintainers:
-    - info@unordinary.eu.org
 - repo: liguros_develop
   srcname: app-crypt/lego
   visiblename: app-crypt/lego
@@ -753,6 +750,25 @@
   summary: Lets Encrypt client and ACME library
   licenses:
     - MIT
+- repo: scoop
+  subrepo: main
+  binname: lego
+  visiblename: lego
+  version: 5.6.0
+  origversion: null
+  status: newest
+  licenses:
+    - MIT
+- repo: termux
+  srcname: lego
+  binname: lego
+  visiblename: lego
+  version: 5.6.0
+  origversion: null
+  status: newest
+  summary: Let's Encrypt/ACME client and library written in Go
+  maintainers:
+    - info@unordinary.eu.org
 - repo: void_x86_64
   subrepo: x86_64
   srcname: lego
