@@ -1,3 +1,16 @@
+- repo: alpine_3_19
+  subrepo: community
+  srcname: lego
+  binname: lego
+  visiblename: lego
+  version: 4.14.2
+  origversion: 4.14.2-r4
+  status: outdated
+  summary: Let's Encrypt client and ACME library written in Go
+  maintainers:
+    - clandmeter@alpinelinux.org
+  licenses:
+    - MIT
 - repo: alpine_3_17
   subrepo: community
   srcname: lego
@@ -24,17 +37,15 @@
     - clandmeter@alpinelinux.org
   licenses:
     - MIT
-- repo: alpine_3_19
-  subrepo: community
+- repo: manjaro_testing
+  subrepo: extra
   srcname: lego
   binname: lego
   visiblename: lego
-  version: 4.14.2
-  origversion: 4.14.2-r4
+  version: 5.6.0
+  origversion: 5.6.0-1
   status: outdated
-  summary: Let's Encrypt client and ACME library written in Go
-  maintainers:
-    - clandmeter@alpinelinux.org
+  summary: Lets Encrypt client and ACME library
   licenses:
     - MIT
 - repo: alpine_3_20
@@ -303,6 +314,17 @@
     - Apache-2.0 AND BSD-2-Clause AND BSD-3-Clause AND ISC AND MIT AND MPL-2.0
   categories:
     - Unspecified
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: lego
+  binname: lego
+  visiblename: lego
+  version: 5.7.0
+  origversion: 5.7.0-1
+  status: newest
+  summary: Lets Encrypt client and ACME library
+  licenses:
+    - MIT
 - repo: fedora_44
   subrepo: updates
   srcname: lego
@@ -437,21 +459,6 @@
   origversion: null
   status: rolling
   summary: Let's Encrypt client and ACME library
-- repo: nix_stable_24_05
-  srcname: lego
-  visiblename: lego
-  version: 4.16.1
-  origversion: null
-  status: outdated
-  summary: Let's Encrypt client and ACME library written in Go
-  maintainers:
-    - aaron@fosslib.net
-    - arian.vanputten@gmail.com
-    - nixpkgs@emily.moe
-    - flokli@flokli.de
-    - lucas+nix@m1cr0man.com
-  licenses:
-    - MIT
 - repo: liguros_stable
   srcname: app-crypt/lego
   visiblename: app-crypt/lego
@@ -611,32 +618,25 @@
   srcname: lego
   binname: lego
   visiblename: lego
-  version: 5.5.2
-  origversion: 5.5.2-1
-  status: outdated
-  summary: Lets Encrypt client and ACME library
-  licenses:
-    - MIT
-- repo: manjaro_testing
-  subrepo: extra
-  srcname: lego
-  binname: lego
-  visiblename: lego
   version: 5.6.0
   origversion: 5.6.0-1
   status: outdated
   summary: Lets Encrypt client and ACME library
   licenses:
     - MIT
-- repo: manjaro_unstable
-  subrepo: extra
+- repo: nix_stable_24_05
   srcname: lego
-  binname: lego
   visiblename: lego
-  version: 5.7.0
-  origversion: 5.7.0-1
-  status: newest
-  summary: Lets Encrypt client and ACME library
+  version: 4.16.1
+  origversion: null
+  status: outdated
+  summary: Let's Encrypt client and ACME library written in Go
+  maintainers:
+    - aaron@fosslib.net
+    - arian.vanputten@gmail.com
+    - nixpkgs@emily.moe
+    - flokli@flokli.de
+    - lucas+nix@m1cr0man.com
   licenses:
     - MIT
 - repo: nix_stable_24_11
