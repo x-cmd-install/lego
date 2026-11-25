@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 10,052 · **Forks**: 1,192 · **Open issues**: 1,326 · **Contributors**: 423
+- **Stars**: 10,056 · **Forks**: 1,192 · **Open issues**: 1,328 · **Contributors**: 423
 
 ## Totals (cumulative)
 
-- **Releases**: 116 · **Merged PRs**: 1599 · **Open PRs**: 14 · **Closed issues**: 1242 · **Open issues**: 84 · **Commits**: 2300
+- **Releases**: 116 · **Merged PRs**: 1600 · **Open PRs**: 14 · **Closed issues**: 1244 · **Open issues**: 84 · **Commits**: 2301
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 2 | 44 | 1 | 28 | 1 | 40 |
-| last60d | 2026-09-25 | 2 | 62 | 2 | 48 | 2 | 67 |
-| 90d | 2026-08-26 | 6 | 85 | 3 | 63 | 3 | 101 |
-| last180d | 2026-05-28 | 12 | 120 | 3 | 103 | 11 | 138 |
-| 360d | 2025-11-29 | 27 | 385 | 6 | 201 | 16 | 479 |
-| last720d | 2024-12-04 | 41 | 563 | 8 | 309 | 26 | 704 |
+| 30d | 2026-10-26 | 2 | 43 | 1 | 29 | 1 | 41 |
+| last60d | 2026-09-26 | 2 | 63 | 2 | 50 | 2 | 68 |
+| 90d | 2026-08-27 | 6 | 85 | 3 | 64 | 3 | 102 |
+| last180d | 2026-05-29 | 12 | 120 | 3 | 105 | 11 | 139 |
+| 360d | 2025-11-30 | 26 | 386 | 6 | 203 | 16 | 480 |
+| last720d | 2024-12-05 | 41 | 562 | 8 | 310 | 26 | 705 |
 
 ## Release assets
 
@@ -129,20 +129,6 @@ Lowest-scoring checks:
 | [lego_v5.7.0_windows_arm64.zip](https://github.com/go-acme/lego/releases/download/v5.7.0/lego_v5.7.0_windows_arm64.zip) | 13.1 MiB | `native/win/arm64` |
 | [lego_v5.7.0_windows_arm64.zip.sbom.json](https://github.com/go-acme/lego/releases/download/v5.7.0/lego_v5.7.0_windows_arm64.zip.sbom.json) | 344.0 KiB | `native/win/arm64` |
 
-## Distribution status
-
-Reported by **56** distros on [repology.org](https://repology.org/project/lego). **10** are ✅ on the latest upstream release, **37** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Arch | `5.7.0` | ✅ latest |
-| Homebrew | `5.7.0` | ✅ latest |
-| Fedora rawhide | `5.6.0` | ⚠️ outdated |
-| Nix unstable | `5.6.0` | ⚠️ outdated |
-| Void | `4.33.0` | ⚠️ outdated |
-| Alpine edge | `5.5.2` | ⚠️ outdated |
-| openSUSE Tumbleweed | `5.6.0` | ⚠️ outdated |
-
 ## Improve this data
 
 Install metadata for lego lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `lego` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -152,4 +138,4 @@ Install metadata for lego lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T10:40:25Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T10:19:52Z._

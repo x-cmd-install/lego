@@ -48,22 +48,22 @@ x install lego
 
 ## 流行度
 
-- **Star**: 10,052 · **Fork**: 1,192 · **开放 issue**: 1,326 · **贡献者**: 423
+- **Star**: 10,056 · **Fork**: 1,192 · **开放 issue**: 1,328 · **贡献者**: 423
 
 ## 累计统计
 
-- **发布数**: 116 · **已合并 PR**: 1599 · **开放 PR**: 14 · **已关闭 issue**: 1242 · **开放 issue**: 84 · **提交数**: 2300
+- **发布数**: 116 · **已合并 PR**: 1600 · **开放 PR**: 14 · **已关闭 issue**: 1244 · **开放 issue**: 84 · **提交数**: 2301
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 2 | 44 | 1 | 28 | 1 | 40 |
-| last60d | 2026-09-25 | 2 | 62 | 2 | 48 | 2 | 67 |
-| 90d | 2026-08-26 | 6 | 85 | 3 | 63 | 3 | 101 |
-| last180d | 2026-05-28 | 12 | 120 | 3 | 103 | 11 | 138 |
-| 360d | 2025-11-29 | 27 | 385 | 6 | 201 | 16 | 479 |
-| last720d | 2024-12-04 | 41 | 563 | 8 | 309 | 26 | 704 |
+| 30d | 2026-10-26 | 2 | 43 | 1 | 29 | 1 | 41 |
+| last60d | 2026-09-26 | 2 | 63 | 2 | 50 | 2 | 68 |
+| 90d | 2026-08-27 | 6 | 85 | 3 | 64 | 3 | 102 |
+| last180d | 2026-05-29 | 12 | 120 | 3 | 105 | 11 | 139 |
+| 360d | 2025-11-30 | 26 | 386 | 6 | 203 | 16 | 480 |
+| last720d | 2024-12-05 | 41 | 562 | 8 | 310 | 26 | 705 |
 
 ## Release 资产
 
@@ -129,20 +129,6 @@ x install lego
 | [lego_v5.7.0_windows_arm64.zip](https://github.com/go-acme/lego/releases/download/v5.7.0/lego_v5.7.0_windows_arm64.zip) | 13.1 MiB | `native/win/arm64` |
 | [lego_v5.7.0_windows_arm64.zip.sbom.json](https://github.com/go-acme/lego/releases/download/v5.7.0/lego_v5.7.0_windows_arm64.zip.sbom.json) | 344.0 KiB | `native/win/arm64` |
 
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/lego) 上共有 **56** 个发行版报告此项目。**10** 个 ✅ 已是最新上游版本，**37** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Arch | `5.7.0` | ✅ latest |
-| Homebrew | `5.7.0` | ✅ latest |
-| Fedora rawhide | `5.6.0` | ⚠️ outdated |
-| Nix unstable | `5.6.0` | ⚠️ outdated |
-| Void | `4.33.0` | ⚠️ outdated |
-| Alpine edge | `5.5.2` | ⚠️ outdated |
-| openSUSE Tumbleweed | `5.6.0` | ⚠️ outdated |
-
 ## 改进这些数据
 
 lego 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `lego` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -152,4 +138,4 @@ lego 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261124.yml` · 2026-11-24T10:40:26Z._
+_数据快照: `data/card/261125.yml` · 2026-11-25T10:19:53Z._
